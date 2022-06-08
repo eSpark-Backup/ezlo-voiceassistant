@@ -64,6 +64,23 @@ GenerateClassCluster=0
 DocumentUniqueId=PSRTXEXD
 
 [Document2]
+DocumentPath=Power_Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CYGRBGCI
+
+[Document3]
 DocumentPath=Controller_Section_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -80,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QTQJOGUA
 
-[Document3]
+[Document4]
 DocumentPath=DDRC_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLIJKIIF
 
-[Document4]
+[Document5]
 DocumentPath=GND_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSLOUWGL
 
-[Document5]
+[Document6]
 DocumentPath=Internal_Power_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBXBIXKR
 
-[Document6]
+[Document7]
 DocumentPath=MISCIO_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PCFYXYOO
 
-[Document7]
+[Document8]
 DocumentPath=SDIO_SDMMC_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNDDJRKM
 
-[Document8]
+[Document9]
 DocumentPath=eMMC_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLSYFXXB
 
-[Document9]
+[Document10]
 DocumentPath=USB_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHGUTDQJ
 
-[Document10]
+[Document11]
 DocumentPath=CameraOrDisplay_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AACEGEKW
 
-[Document11]
+[Document12]
 DocumentPath=PCIe_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZKGOBLWM
 
-[Document12]
+[Document13]
 DocumentPath=Interface_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RZBDQEWO
 
-[Document13]
+[Document14]
 DocumentPath=Door_Sensor.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -266,6 +283,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAQMHGBU
+
+[Document15]
+DocumentPath=Power_Section.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=Interface_Sheet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
