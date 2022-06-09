@@ -1,0 +1,14 @@
+Record=TopLevelDocument|FileName=CameraOrDisplay_Sheet.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=Controller_Section_1.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=DDRC_Section.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=DSP_Sheet.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=eMMC_Sheet.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=GND_Sheet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=Interface_Sheet.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=Internal_Power_Sheet.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=MISCIO_Sheet.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=PCIe_Sheet.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=Power_Section.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=SDIO_SDMMC_Sheet.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=Top_Sheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CameraOrDisplay_Sheet.SchDoc|FileName=USB_Sheet.SchDoc|SheetNumber=10
