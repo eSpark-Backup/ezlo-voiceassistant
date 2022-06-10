@@ -47,7 +47,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Top_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\Top_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -64,7 +64,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PSRTXEXD
 
 [Document2]
-DocumentPath=Power_Section.SchDoc
+DocumentPath=..\Door_Sensor_Device\Power_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,7 +81,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CYGRBGCI
 
 [Document3]
-DocumentPath=Controller_Section_1.SchDoc
+DocumentPath=..\Door_Sensor_Device\Controller_Section_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,7 +98,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QTQJOGUA
 
 [Document4]
-DocumentPath=DDRC_Section.SchDoc
+DocumentPath=..\Door_Sensor_Device\DDRC_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +115,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NLIJKIIF
 
 [Document5]
-DocumentPath=GND_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\GND_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +132,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LSLOUWGL
 
 [Document6]
-DocumentPath=Internal_Power_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\Internal_Power_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,7 +149,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CBXBIXKR
 
 [Document7]
-DocumentPath=MISCIO_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\MISCIO_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -166,7 +166,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PCFYXYOO
 
 [Document8]
-DocumentPath=SDIO_SDMMC_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\SDIO_SDMMC_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -183,7 +183,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XNDDJRKM
 
 [Document9]
-DocumentPath=eMMC_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\eMMC_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -200,7 +200,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GLSYFXXB
 
 [Document10]
-DocumentPath=USB_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\USB_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -217,7 +217,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IHGUTDQJ
 
 [Document11]
-DocumentPath=CameraOrDisplay_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\CameraOrDisplay_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -234,7 +234,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AACEGEKW
 
 [Document12]
-DocumentPath=PCIe_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\PCIe_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -251,7 +251,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZKGOBLWM
 
 [Document13]
-DocumentPath=Interface_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\Interface_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -268,7 +268,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RZBDQEWO
 
 [Document14]
-DocumentPath=Power_Section.Harness
+DocumentPath=..\Door_Sensor_Device\Power_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -285,7 +285,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=Interface_Sheet.Harness
+DocumentPath=..\Door_Sensor_Device\Interface_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -302,7 +302,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=Ezlo_Voice_AssistantHUB.OutJob
+DocumentPath=..\Door_Sensor_Device\Ezlo_Voice_AssistantHUB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -319,7 +319,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=DSP_Sheet.SchDoc
+DocumentPath=..\Door_Sensor_Device\DSP_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -489,42 +489,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
