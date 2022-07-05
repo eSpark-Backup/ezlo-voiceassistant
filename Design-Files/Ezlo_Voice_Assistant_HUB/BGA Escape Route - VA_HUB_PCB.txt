@@ -1,0 +1,17 @@
+BGA Escape Route
+Filename     : E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
+Date         : 7/5/2022
+Time         : 3:57:38 PM
+Time Elapsed : 00:00:00
+
+U5
+    Pad U5-B2(66.235mm,95.785mm) on Top Layer on Net EMMC.EMMC_D3
+    Pad U5-C2(65.735mm,95.785mm) on Top Layer on Net NetC92_2
+    Pad U5-B3(66.235mm,95.285mm) on Top Layer on Net EMMC.EMMC_D4
+    Pad U5-B4(66.235mm,94.785mm) on Top Layer on Net EMMC.EMMC_D5
+    Pad U5-N4(60.735mm,94.785mm) on Top Layer on Net VCC_1V8
+    Pad U5-B5(66.235mm,94.285mm) on Top Layer on Net EMMC.EMMC_D6
+    Pad U5-B6(66.235mm,93.785mm) on Top Layer on Net EMMC.EMMC_D7
+    Pad U5-M5(61.235mm,94.285mm) on Top Layer on Net EMMC.EMMC_CMD
+    Pad U5-C6(65.735mm,93.785mm) on Top Layer on Net VCC_1V8
+count : 9
