@@ -1,0 +1,8 @@
+Added Component: Designator=R2(Res0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "RALEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "RTT03R330FTP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IPK SNS Pin=R2-1
+Added Pin To Net: NetName=VCC_5V Pin=R2-2
+Added Member To Class: ClassName=U_Power_Section Member=Component R2 0.33R
