@@ -1,4 +1,9 @@
-Record=TopLevelDocument|FileName=ADC_Section.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=Controller_Section.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=Memory_Section.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=ADC_Section.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=Amplifier_Section.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=Controller_Section.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=DAC_Section.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=DSP_Section.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=Memory_Section.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=Mic_Section.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=Power_Section.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=ADC_Section.SchDoc|FileName=Top_Sheet.SchDoc|SheetNumber=1
