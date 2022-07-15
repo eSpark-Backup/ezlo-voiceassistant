@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=C189
+Removed Member From Class: ClassName=U_SDIO_SDMMC_Sheet Member=P17
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=R30
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=R30
+Change Component Designator: OldDesignator=P? NewDesignator=P18
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP18_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR32_2
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component C196 0.1uF
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component P18 Test Point
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component R32 22R
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component R34 22R

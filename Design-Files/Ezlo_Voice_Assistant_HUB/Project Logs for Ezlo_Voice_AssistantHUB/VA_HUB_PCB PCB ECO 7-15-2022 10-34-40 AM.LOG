@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=U_DDRC_Section Member=C?
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=C?
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=P?
+Removed Member From Class: ClassName=U_DDRC_Section Member=R?
+Removed Member From Class: ClassName=U_eMMC_Sheet Member=R?
+Removed Member From Class: ClassName=U_Internal_Power_Sheet Member=R?
+Change Component Designator: OldDesignator=C? NewDesignator=C189
+Change Component Designator: OldDesignator=C? NewDesignator=C190
+Change Component Designator: OldDesignator=C? NewDesignator=C191
+Change Component Designator: OldDesignator=C? NewDesignator=C192
+Change Component Designator: OldDesignator=C? NewDesignator=C193
+Change Component Designator: OldDesignator=C? NewDesignator=C194
+Change Component Designator: OldDesignator=C? NewDesignator=C195
+Change Component Designator: OldDesignator=C? NewDesignator=C196
+Change Component Designator: OldDesignator=P? NewDesignator=P17
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR35_1
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U2-L28
+Added Net: Name=NetR36_2
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C189 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C190 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C191 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C192 0.1uF
+Added Member To Class: ClassName=U_DDRC_Section Member=Component C194 1uF
+Added Member To Class: ClassName=U_DDRC_Section Member=Component C195 0.1uF
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component C196 0.1uF
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component P17 Test Point
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component R29 10K
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component R30 100K
+Added Member To Class: ClassName=U_DDRC_Section Member=Component R31 0R
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component R33 0R
+Added Member To Class: ClassName=U_eMMC_Sheet Member=Component R35 10K
+Added Member To Class: ClassName=U_eMMC_Sheet Member=Component R36 22R
