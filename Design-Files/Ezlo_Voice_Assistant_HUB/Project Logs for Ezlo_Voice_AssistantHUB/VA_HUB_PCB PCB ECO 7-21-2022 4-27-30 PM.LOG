@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Change Component Footprint: Designator=X3 Old Footprint=7B08070001 New Footprint=5TJ480000XYLBC
+Change component parameters: Designator = "J3" ("J3"); Footprint = "U231-091N-4BLRA00-S"; UniqueID = "\HRHWMQSG\YHWLXCLH" ("\HRHWMQSG\YHWLXCLH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/USB-Connectors_XKB-Connectivity-U231-091N-4BLRA00-S_C2880618.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "U231-091N-4BLRA00-S"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X3" ("X3"); Footprint = "7B08070001"; UniqueID = "\UZVKGKHT\GAJCHRPE" ("\UZVKGKHT\GAJCHRPE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Crystals_JYJE-5TJ480000XYLBC_C2149247.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JYJE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "5TJ480000XYLBC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetC6_2 Pin=D1-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component J3 U231-091N-4BLRA00-S
+Added Member To Class: ClassName=U_Power_Section Member=Component U1 RK808-D
+Added Member To Class: ClassName=U_DSP_Section Member=Component U4 STM32F411CCU6TR
+Added Member To Class: ClassName=U_DSP_Section Member=Component X3 8MHz
