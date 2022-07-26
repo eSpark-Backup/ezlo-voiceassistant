@@ -1,0 +1,24 @@
+Added Component: Designator=L4(SWPA5040S330MT)
+Add component (AddParameter): Name = "Category"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SWPA5040S330MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1500=0.24990 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3442-SWPA5040S330MTTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L5(SWPA5040S330MT)
+Add component (AddParameter): Name = "Category"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SWPA5040S330MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1500=0.24990 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3442-SWPA5040S330MTTR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUTP Pin=L4-1
+Added Pin To Net: NetName=SPKP Pin=L4-2
+Added Pin To Net: NetName=OUTN Pin=L5-1
+Added Pin To Net: NetName=SPKN Pin=L5-2
+Added Member To Class: ClassName=U_Amplifier_Section Member=Component L4 33uH
+Added Member To Class: ClassName=U_Amplifier_Section Member=Component L5 33uH
