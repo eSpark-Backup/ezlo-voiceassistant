@@ -64,23 +64,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CLUJMIQD
 
 [Document2]
-DocumentPath=Power_Section.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CYGRBGCI
-
-[Document3]
 DocumentPath=Controller_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DKWZIVOU
 
-[Document4]
+[Document3]
 DocumentPath=Internal_Power_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBXBIXKR
 
-[Document5]
+[Document4]
 DocumentPath=GND_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSLOUWGL
 
-[Document6]
+[Document5]
 DocumentPath=DDRC_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLIJKIIF
 
-[Document7]
+[Document6]
 DocumentPath=DDRC_Sheet_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOEGWUVT
 
-[Document8]
+[Document7]
 DocumentPath=CameraOrDisplay_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMXUCMYU
 
-[Document9]
+[Document8]
 DocumentPath=eMMC_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLSYFXXB
 
-[Document10]
+[Document9]
 DocumentPath=Interface_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RZBDQEWO
 
-[Document11]
+[Document10]
 DocumentPath=Interface_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=MIPI_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AACEGEKW
 
-[Document13]
+[Document12]
 DocumentPath=MISCIO_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PCFYXYOO
 
-[Document14]
+[Document13]
 DocumentPath=PCIe_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +267,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZKGOBLWM
 
-[Document15]
+[Document14]
 DocumentPath=SDIO_SDMMC_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +284,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNDDJRKM
 
-[Document16]
+[Document15]
 DocumentPath=SDIO_SDMMC_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +301,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=USB_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,7 +318,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHGUTDQJ
 
-[Document18]
+[Document17]
 DocumentPath=DSP_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHYXIUPP
 
-[Document19]
+[Document18]
 DocumentPath=Memory_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -369,7 +352,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTJMPPTI
 
-[Document20]
+[Document19]
 DocumentPath=RAM_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -386,7 +369,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBREGAJN
 
-[Document21]
+[Document20]
 DocumentPath=RAM_Sheet_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -403,7 +386,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PZLMFPKW
 
-[Document22]
+[Document21]
 DocumentPath=Flash_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -420,7 +403,58 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQLOGCAC
 
+[Document22]
+DocumentPath=Power_Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=22
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XFSTOEHK
+
 [Document23]
+DocumentPath=Power_Section_1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=23
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZFNBGDWU
+
+[Document24]
+DocumentPath=Power_Section_2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CYGRBGCI
+
+[Document25]
 DocumentPath=WiFi_Module_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -437,7 +471,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXNGDBSV
 
-[Document24]
+[Document26]
 DocumentPath=WiFi_Module_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -454,24 +488,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
-DocumentPath=Power_Section.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document26]
+[Document27]
 DocumentPath=Flash_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -488,7 +505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=eMMC_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -505,7 +522,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=RAM_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -522,7 +539,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=DDRC_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -539,7 +556,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=RAM_Sheet_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -556,7 +573,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=DSP_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -573,7 +590,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=VA_HUB_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -590,7 +607,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAQMHGBU
 
-[Document33]
+[Document34]
 DocumentPath=Connector_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -607,7 +624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEPPVRBL
 
-[Document34]
+[Document35]
 DocumentPath=Connector_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -624,8 +641,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=USB_Sheet.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document37]
+DocumentPath=Power_Section_2.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document38]
+DocumentPath=Power_Section_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -795,42 +846,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
