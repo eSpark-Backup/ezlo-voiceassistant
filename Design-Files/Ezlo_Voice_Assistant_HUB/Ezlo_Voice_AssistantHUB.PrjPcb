@@ -444,6 +444,23 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+AnnotateOrder=24
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TOWLFGSD
+
+[Document25]
+DocumentPath=Power_Section_3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -454,7 +471,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYGRBGCI
 
-[Document25]
+[Document26]
 DocumentPath=WiFi_Module_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -471,7 +488,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXNGDBSV
 
-[Document26]
+[Document27]
 DocumentPath=WiFi_Module_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -488,7 +505,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=Flash_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -505,7 +522,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=eMMC_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -522,7 +539,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=RAM_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -539,7 +556,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=DDRC_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -556,7 +573,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=RAM_Sheet_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -573,7 +590,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=DSP_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -590,7 +607,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=VA_HUB_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -607,7 +624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAQMHGBU
 
-[Document34]
+[Document35]
 DocumentPath=Connector_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -624,7 +641,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEPPVRBL
 
-[Document35]
+[Document36]
 DocumentPath=Connector_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -641,7 +658,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=USB_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -658,8 +675,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
-DocumentPath=Power_Section_2.Harness
+[Document38]
+DocumentPath=Power_Section_3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -675,7 +692,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=Power_Section_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
