@@ -642,23 +642,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document36]
-DocumentPath=USB_Sheet.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document37]
 DocumentPath=Power_Section_3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -675,7 +658,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=Power_Section_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -692,7 +675,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=CameraOrDisplay_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -709,7 +692,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=Flash_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -726,7 +709,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=HDMI_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -743,7 +726,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WPTSFRKC
 
-[Document42]
+[Document41]
 DocumentPath=HDMI_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
