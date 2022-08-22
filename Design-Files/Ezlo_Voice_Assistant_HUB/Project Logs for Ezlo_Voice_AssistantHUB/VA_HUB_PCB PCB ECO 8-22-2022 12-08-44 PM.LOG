@@ -1,0 +1,7 @@
+Add Differential Pair: Number of nets in differential pair TYPEC1_DM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TYPEC1_DP is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TYPEC1_RX1N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TYPEC1_RX1P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TYPEC1TX1N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TYPEC1TX1P is 1 instead of 2
+Add Differential Pair: Net(s) Not Found in Differential Pair USBA : Positive Net [USBA_P] & Negative Net [USBA_N] in current PCB document
