@@ -1,0 +1,53 @@
+Board Information Report
+Filename     : C:\Users\XPENDER\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
+Date         : 8/28/2022
+Time         : 8:29:28 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3253milsx2873mils
+    Components on board, 295
+count : 2
+
+Routing Information
+    Routing completion, 85.04%
+    Connections, 1190
+    Connections routed, 1012
+    Connections remaining, 178
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 4, 1618, 0, 1741, 0, 87, 0, 0
+    Layer 1, 0, 0, 0, 17, 0, 0, 4, 0
+    Layer 2, 0, 0, 0, 8, 0, 0, 1, 0
+    Bottom Layer, 0, 298, 0, 828, 0, 92, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 1, 271
+    Mechanical 2, 0, 0, 0, 9, 0, 0, 0, 0
+    Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 1
+    Multi-Layer, 0, 39, 727, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 18, 0, 0, 854, 329, 3, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 1, 0, 0, 842, 296, 3, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 17
+
+Drill Pairs, Vias
+count : 0
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    7.874mils, 0, 0
+    11.811mils, 0, 0
+    35.433mils, 0, 0
+    39.37mils, 0, 0
+    55.118mils, 0, 0
+count : 6
