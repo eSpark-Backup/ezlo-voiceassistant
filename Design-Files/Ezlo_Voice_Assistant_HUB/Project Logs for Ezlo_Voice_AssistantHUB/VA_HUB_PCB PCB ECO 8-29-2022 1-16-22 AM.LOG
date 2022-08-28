@@ -1,0 +1,93 @@
+Change Footprint: Footprint Not Found Cap 0402
+Change Footprint: Footprint Not Found Cap 0402
+Change Footprint: Footprint Not Found Cap 0402
+Change Footprint: Footprint Not Found B5819WS
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found Res0603
+Added Component: Designator=J11(2305018-2)
+Add component (AddParameter): Name = "Category"; Value = "USB Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2611889.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2611889.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2305018&DocType=Customer+Drawing&DocLang=English&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2305018&DocType=Customer+Drawing&DocLang=English&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.farnell.com/datasheets/2611889.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/2611889.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2305018-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount,Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.00000, 10=2.87800, 25=2.63840, 50=2.51840, 100=2.39840, 250=2.09864 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "Waterproof"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A132569CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=L10(FNR5040SR24NT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/span-style-background-color-ff0-Power-span-span-style-background-color-ff0-Inductors-span_cjiang-Changjiang-Microelectronics-Tech-FNR5040SR24NT_C167951.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "cjiang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FNR5040SR24NT"; VariantName = "[No Variations]"
+Added Component: Designator=L11(FNR5040SR24NT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/span-style-background-color-ff0-Power-span-span-style-background-color-ff0-Inductors-span_cjiang-Changjiang-Microelectronics-Tech-FNR5040SR24NT_C167951.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "cjiang"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FNR5040SR24NT"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D3-3
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Added Pin To Net: NetName=GND Pin=J11-A1
+Added Pin To Net: NetName=TYPEC0TX1_P Pin=J11-A2
+Added Pin To Net: NetName=TYPEC0TX1_N Pin=J11-A3
+Added Pin To Net: NetName=VBUS_TYPEC0 Pin=J11-A4
+Added Pin To Net: NetName=TYPEC0_CC1 Pin=J11-A5
+Added Pin To Net: NetName=TYPEC0_D_P Pin=J11-A6
+Added Pin To Net: NetName=TYPEC0_D_N Pin=J11-A7
+Added Pin To Net: NetName=TYPEC0_AUX_P Pin=J11-A8
+Added Pin To Net: NetName=VBUS_TYPEC0 Pin=J11-A9
+Added Pin To Net: NetName=TYPEC0_RX2_N Pin=J11-A10
+Added Pin To Net: NetName=TYPEC0_RX2_P Pin=J11-A11
+Added Pin To Net: NetName=GND Pin=J11-A12
+Added Pin To Net: NetName=GND Pin=J11-B1
+Added Pin To Net: NetName=TYPEC0TX2_P Pin=J11-B2
+Added Pin To Net: NetName=TYPEC0TX2_N Pin=J11-B3
+Added Pin To Net: NetName=VBUS_TYPEC0 Pin=J11-B4
+Added Pin To Net: NetName=TYPEC0_CC2 Pin=J11-B5
+Added Pin To Net: NetName=TYPEC0_D_P Pin=J11-B6
+Added Pin To Net: NetName=TYPEC0_D_N Pin=J11-B7
+Added Pin To Net: NetName=TYPEC0_AUX_M Pin=J11-B8
+Added Pin To Net: NetName=VBUS_TYPEC0 Pin=J11-B9
+Added Pin To Net: NetName=TYPEC0_RX1_N Pin=J11-B10
+Added Pin To Net: NetName=TYPEC0_RX1_P Pin=J11-B11
+Added Pin To Net: NetName=GND Pin=J11-B12
+Added Pin To Net: NetName=GND Pin=J11-G1
+Added Pin To Net: NetName=GND Pin=J11-G2
+Added Pin To Net: NetName=GND Pin=J11-S1
+Added Pin To Net: NetName=GND Pin=J11-S2
+Added Pin To Net: NetName=GND Pin=J11-S3
+Added Pin To Net: NetName=GND Pin=J11-S4
+Added Pin To Net: NetName=VDD_CPU_B Pin=L10-1
+Added Pin To Net: NetName=NetL10_2 Pin=L10-2
+Added Pin To Net: NetName=VDD_GPU Pin=L11-1
+Added Pin To Net: NetName=NetL11_2 Pin=L11-2
+Add Pin To Net: Unknown Pin: Pin U2-AG29
+Add Class Member: Failed to add class member : Component D3 BAT54CW
+Add Class Member: Failed to add class member : Component F1 SMD0603-050
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component J11 2305018-2
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component L10 240nH
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component L11 240nH

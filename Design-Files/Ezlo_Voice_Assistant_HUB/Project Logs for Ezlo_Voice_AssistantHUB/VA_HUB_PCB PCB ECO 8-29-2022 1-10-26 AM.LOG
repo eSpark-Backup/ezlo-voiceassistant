@@ -1,0 +1,44 @@
+Change Footprint: Footprint Not Found Cap 0402
+Change Footprint: Footprint Not Found Cap 0402
+Change Footprint: Footprint Not Found Cap 0402
+Change Footprint: Footprint Not Found B5819WS
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found Res0603
+Added Component: Designator=J1(503398-1892)
+Add component (AddParameter): Name = "Category"; Value = "Memory Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/29723/5033981892-sd-29723401.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/29723/5033981892-sd-29723401.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/22744/1740946-22744573.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/22744/1740946-22744573.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/23941/1740947-23941665.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/23941/1740947-23941665.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "503398-1892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.47900, 10=2.18900, 25=2.17400, 100=1.81200 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "14535"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "503398-1892"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D3-3
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Added Pin To Net: NetName=SDMMC0_D2 Pin=J1-1
+Added Pin To Net: NetName=SDMMC0_D3 Pin=J1-2
+Added Pin To Net: NetName=SDMMC0_CMD Pin=J1-3
+Added Pin To Net: NetName=VCC3V0_SD Pin=J1-4
+Added Pin To Net: NetName=SDMMC0_CLK Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=SDMMC0_D0 Pin=J1-7
+Added Pin To Net: NetName=SDMMC0_D1 Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=SDMMC0_DET_L Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-P1
+Added Pin To Net: NetName=GND Pin=J1-P2
+Added Pin To Net: NetName=GND Pin=J1-P3
+Added Pin To Net: NetName=GND Pin=J1-P4
+Add Pin To Net: Unknown Pin: Pin U2-AG29
+Add Class Member: Failed to add class member : Component D3 BAT54CW
+Add Class Member: Failed to add class member : Component F1 SMD0603-050
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component J1 5033981892
