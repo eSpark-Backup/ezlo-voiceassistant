@@ -1,0 +1,60 @@
+Change Component Footprint: Designator=L6 Old Footprint=FHW0603UC1N6KST New Footprint=IND 0603
+Change Component Description : Designator=L6 Old Description=IND 700mA 1.6nH ±10% 40mO 0603 New Description=700mA 1.6nH ±10% 40mO 0603 Inductors (SMD) ROHS
+Change Component Library : Designator=C3 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=C4 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=C6 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=C7 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=C53 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=C57 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=D1 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=D2 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=P6 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=P7 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=P8 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=P9 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=P10 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R1 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R3 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R4 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R6 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R10 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R14 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R15 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R16 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R17 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R18 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R19 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R20 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R21 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R22 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R23 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R24 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R25 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R26 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R27 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R28 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R29 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R30 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R31 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R32 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R33 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB1 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB4 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB5 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB6 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB7 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB8 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB9 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=U9 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=U10 Old Library=Ezlo_Library.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R12 Old Library=S_S.SchLib New Library=Ezlo.SchLib
+Change Component Library : Designator=L6 Old Library=Sound_Sensor.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R9 Old Library=Sound_Sensor.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R11 Old Library=Sound_Sensor.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=R13 Old Library=Sound_Sensor.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB2 Old Library=Sound_Sensor.IntLib New Library=Ezlo.SchLib
+Change Component Library : Designator=SB3 Old Library=Sound_Sensor.IntLib New Library=Ezlo.SchLib
+Change component parameters: Designator = "L6" ("L6"); Footprint = "FHW0603UC1N6KST"; UniqueID = "\WBNYCMWO\USQAWSZB" ("\WBNYCMWO\USQAWSZB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "FHW0603UC1N6KST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.6nH"; VariantName = "[No Variations]"
