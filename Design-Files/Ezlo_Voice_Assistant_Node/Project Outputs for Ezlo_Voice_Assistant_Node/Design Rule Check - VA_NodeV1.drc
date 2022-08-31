@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_Node\VA_NodeV1.2.PcbDoc
+PCB File : C:\Users\XPENDER\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_Node\VA_NodeV1.2.PcbDoc
 Date     : 8/31/2022
-Time     : 1:25:56 PM
+Time     : 8:03:35 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:01
