@@ -9,7 +9,7 @@ Generating : Board Oultine
 
 
 Used DCodes :
-    D10
+    D11
 *************************************************************
 
 *************************************************************
@@ -20,11 +20,11 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D10
+    D11
     D12
     D13
     D118
-    D124
+    D123
     D299
 *************************************************************
 
@@ -40,9 +40,9 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D23
-    D29
-    D32
+    D24
+    D26
+    D33
     D261
     D262
 *************************************************************
@@ -59,10 +59,10 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D63
-    D69
-    D72
-    D73
+    D66
+    D71
+    D74
+    D75
     D106
     D107
     D108
@@ -298,9 +298,9 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D23
-    D29
-    D32
+    D24
+    D26
+    D33
     D249
     D250
     D251
@@ -325,10 +325,10 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D23
-    D29
-    D32
+    D11
+    D24
+    D26
+    D33
     D118
     D120
     D121
@@ -398,7 +398,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
+    D11
     D22
     D23
     D24

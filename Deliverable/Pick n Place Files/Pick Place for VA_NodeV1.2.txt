@@ -4,17 +4,18 @@ E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_Node\Project Outputs fo
 ========================================================================================================================
 File Design Information:
 
-Date:       31/08/22
-Time:       19:25
-Revision:   aa14132c191cefe7ccf1eb30b44a8f46e98771eb
+Date:       02/09/22
+Time:       09:22
+Revision:   30ed313a11c053eb84380092ecb7a244ee46140d
 Variant:    No variations
 Units used: mil
 
 Designator Layer       Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
+D3         TopLayer    415.000mil    1925.276mil   90       415.000mil  1925.276mil 415.000mil  1880.000mil 
+U7         TopLayer    1114.874mil   1724.000mil   180      1114.874mil 1724.000mil 1256.803mil 1649.000mil 
 U11        TopLayer    1109.484mil   1962.000mil   180      1109.484mil 1962.000mil 1215.784mil 1887.000mil 
 R35        BottomLayer 1170.000mil   1919.000mil   0        1170.000mil 1919.000mil 1140.000mil 1919.000mil 
 R34        BottomLayer 991.000mil    1919.000mil   0        991.000mil  1919.000mil 961.000mil  1919.000mil 
-U7         TopLayer    1114.874mil   1724.000mil   180      1114.874mil 1724.000mil 1256.803mil 1649.000mil 
 C60        TopLayer    2036.000mil   1447.000mil   0        2036.000mil 1447.000mil 1923.000mil 1447.000mil 
 C38        TopLayer    2380.000mil   1390.000mil   180      2380.000mil 1390.000mil 2493.000mil 1390.000mil 
 R33        BottomLayer 2157.000mil   1736.000mil   90       2157.000mil 1736.000mil 2157.000mil 1706.000mil 
@@ -107,7 +108,6 @@ L1         TopLayer    587.000mil    1287.000mil   270      587.000mil  1287.000
 J3         TopLayer    265.709mil    292.283mil    90       265.709mil  292.283mil  277.520mil  449.567mil  
 J2         TopLayer    -30.000mil    1313.000mil   90       -30.000mil  1113.000mil -30.000mil  1113.000mil 
 J1         TopLayer    5.000mil      1975.000mil   90       5.000mil    1975.000mil 43.354mil   1975.000mil 
-D3         TopLayer    415.000mil    1925.276mil   90       415.000mil  1925.276mil 415.000mil  1880.000mil 
 D2         TopLayer    1435.000mil   93.740mil     270      1435.000mil 93.740mil   1435.000mil 172.480mil  
 D1         TopLayer    913.000mil    1310.000mil   270      913.000mil  1310.000mil 913.000mil  1388.740mil 
 C58        TopLayer    2068.000mil   495.000mil    0        2068.000mil 495.000mil  2098.000mil 495.000mil  
