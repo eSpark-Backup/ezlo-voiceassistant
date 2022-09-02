@@ -1,0 +1,8 @@
+Added Component: Designator=D3(UDD32C03L01)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/span-style-background-color-ff0-ESD-span-Protection-Devices_Brightking-Elec-TAIWAN-UDD32C03L01_C78439.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Brightking"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UDD32C03L01"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Member To Class: ClassName=U_Controller_Section Member=Component D3 UDD32C03L01

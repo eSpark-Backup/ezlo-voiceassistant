@@ -1,0 +1,16 @@
+Added Component: Designator=U7(SOP-8_208mil)
+Add component (AddParameter): Name = "Category"; Value = "Memory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Winbond"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W25Q64FVSSIQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "W25Q64FVSSIQ-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCS/CMD Pin=U7-1
+Added Pin To Net: NetName=SDO/SD0 Pin=U7-2
+Added Pin To Net: NetName=SWP/SD3 Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=SDI/SD1 Pin=U7-5
+Added Pin To Net: NetName=SCK/CLK Pin=U7-6
+Added Pin To Net: NetName=SHD/SD2 Pin=U7-7
+Added Pin To Net: NetName=VDD_SDIO Pin=U7-8
+Added Member To Class: ClassName=U_Memory_Section Member=Component U7 W25Q64FVSSIQ
