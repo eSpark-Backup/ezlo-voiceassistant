@@ -1,0 +1,8 @@
+Added Component: Designator=D4(DFN1006-2L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/TVS_Will-Semicon-ESD5451N-2-TR_C239604.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WILLSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESD5451N-2/TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component D4 ESD5451N-2/TR
