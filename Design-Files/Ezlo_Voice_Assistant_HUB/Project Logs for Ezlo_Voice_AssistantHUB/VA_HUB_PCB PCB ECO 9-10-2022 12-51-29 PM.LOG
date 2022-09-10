@@ -1,0 +1,425 @@
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C2
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C4
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C6
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C9
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C10
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C11
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C13
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C14
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C15
+Removed Member From Class: ClassName=U_DDRC_Section Member=C16
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C16
+Removed Member From Class: ClassName=U_Power_Sheet_1 Member=C32
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C32
+Removed Member From Class: ClassName=U_Internal_Power_Sheet Member=C43
+Removed Member From Class: ClassName=U_DSP_Section Member=C61
+Removed Member From Class: ClassName=U_Power_Sheet_1 Member=C73
+Removed Member From Class: ClassName=U_RAM_Sheet Member=C73
+Removed Member From Class: ClassName=U_Power_Sheet_2 Member=C76
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=C92
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=C93
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=C94
+Removed Member From Class: ClassName=U_Internal_Power_Sheet Member=C179
+Removed Member From Class: ClassName=U_DDRC_Section Member=C203
+Removed Member From Class: ClassName=U_USB_Sheet Member=C231
+Removed Member From Class: ClassName=U_USB_Sheet Member=C232
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=C233
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=C233
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=C234
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=C234
+Removed Member From Class: ClassName=U_Internal_Power_Sheet Member=C236
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=C236
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=C236
+Removed Member From Class: ClassName=U_Power_Sheet_2 Member=D7
+Removed Member From Class: ClassName=U_Connector_Section Member=D8
+Removed Member From Class: ClassName=U_USB_Sheet Member=D8
+Removed Member From Class: ClassName=U_Connector_Section Member=D15
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=D15
+Removed Member From Class: ClassName=U_Connector_Section Member=D17
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=D17
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=D18
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=D19
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=D20
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=D21
+Removed Member From Class: ClassName=U_Connector_Section Member=D23
+Removed Member From Class: ClassName=U_Connector_Section Member=J3
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=J3
+Removed Member From Class: ClassName=U_Connector_Section Member=J4
+Removed Member From Class: ClassName=U_Connector_Section Member=J5
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=L1
+Removed Member From Class: ClassName=U_USB_Sheet Member=L1
+Removed Member From Class: ClassName=U_DSP_Section Member=L2
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=L4
+Removed Member From Class: ClassName=U_Power_Sheet_1 Member=L8
+Removed Member From Class: ClassName=U_Connector_Section Member=LED1
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=P2
+Removed Member From Class: ClassName=U_SDIO_SDMMC_Sheet Member=P3
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=P4
+Removed Member From Class: ClassName=U_SDIO_SDMMC_Sheet Member=P4
+Removed Member From Class: ClassName=U_SDIO_SDMMC_Sheet Member=P5
+Removed Member From Class: ClassName=U_Interface_Sheet Member=P7
+Removed Member From Class: ClassName=U_DDRC_Section Member=P11
+Removed Member From Class: ClassName=U_DDRC_Section Member=P12
+Removed Member From Class: ClassName=U_USB_Sheet Member=P12
+Removed Member From Class: ClassName=U_DSP_Section Member=P14
+Removed Member From Class: ClassName=U_eMMC_Sheet Member=P14
+Removed Member From Class: ClassName=U_SDIO_SDMMC_Sheet Member=P22
+Removed Member From Class: ClassName=U_Power_Sheet_2 Member=P24
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=P24
+Removed Member From Class: ClassName=U_DSP_Section Member=P26
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=P28
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=P35
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=P38
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=P40
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=Q8
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R2
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R4
+Removed Member From Class: ClassName=U_DDRC_Section Member=R6
+Removed Member From Class: ClassName=U_CameraOrDisplay_Sheet Member=R10
+Removed Member From Class: ClassName=U_eMMC_Sheet Member=R13
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R13
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=R19
+Removed Member From Class: ClassName=U_RAM_Sheet Member=R21
+Removed Member From Class: ClassName=U_USB_Sheet Member=R21
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=R25
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R27
+Removed Member From Class: ClassName=U_Power_Sheet_1 Member=R29
+Removed Member From Class: ClassName=U_Power_Sheet_1 Member=R33
+Removed Member From Class: ClassName=U_RAM_Sheet Member=R42
+Removed Member From Class: ClassName=U_USB_Sheet Member=R42
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=R46
+Removed Member From Class: ClassName=U_DSP_Section Member=R48
+Removed Member From Class: ClassName=U_USB_Sheet Member=R48
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=R51
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=R52
+Removed Member From Class: ClassName=U_Connector_Section Member=R54
+Removed Member From Class: ClassName=U_Connector_Section Member=R55
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R57
+Removed Member From Class: ClassName=U_DSP_Section Member=R58
+Removed Member From Class: ClassName=U_RAM_Sheet Member=R60
+Removed Member From Class: ClassName=U_Flash_Sheet Member=R61
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R63
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R70
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R71
+Removed Member From Class: ClassName=U_DSP_Section Member=R73
+Removed Member From Class: ClassName=U_DSP_Section Member=R75
+Removed Member From Class: ClassName=U_Power_Sheet_1 Member=R75
+Removed Member From Class: ClassName=U_RAM_Sheet Member=R77
+Removed Member From Class: ClassName=U_Connector_Section Member=R80
+Removed Member From Class: ClassName=U_RAM_Sheet Member=R81
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=R81
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=R83
+Removed Member From Class: ClassName=U_Connector_Section Member=R84
+Removed Member From Class: ClassName=U_SDIO_SDMMC_Sheet Member=R84
+Removed Member From Class: ClassName=U_Connector_Section Member=R87
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=R87
+Removed Member From Class: ClassName=U_Connector_Section Member=R89
+Removed Member From Class: ClassName=U_DSP_Section Member=R89
+Removed Member From Class: ClassName=U_DDRC_Section Member=R99
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R99
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R101
+Removed Member From Class: ClassName=U_USB_Sheet Member=R105
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=R105
+Removed Member From Class: ClassName=U_SDIO_SDMMC_Sheet Member=R119
+Removed Member From Class: ClassName=U_HDMI_Sheet Member=R120
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=R120
+Removed Member From Class: ClassName=U_DSP_Section Member=R122
+Removed Member From Class: ClassName=U_DSP_Section Member=R124
+Removed Member From Class: ClassName=U_MIPI_Sheet Member=SB5
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=SB6
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=SB7
+Removed Member From Class: ClassName=U_MISCIO_Sheet Member=SB11
+Removed Member From Class: ClassName=U_Flash_Sheet Member=SB17
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=SB18
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=SB21
+Removed Member From Class: ClassName=U_Connector_Section Member=SB23
+Removed Member From Class: ClassName=U_Interface_Sheet Member=SB32
+Removed Member From Class: ClassName=U_Power_Sheet_2 Member=SW6
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=U2
+Removed Member From Class: ClassName=U_USB_Sheet_2 Member=U7
+Removed Member From Class: ClassName=U_WiFi_Module_Section Member=U11
+Removed Member From Class: ClassName=U_RAM_Sheet Member=U12
+Removed Member From Class: ClassName=U_Power_Sheet_1 Member=U14
+Add Pin To Net: Unknown Pin: Pin U10-AG29
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C1 100pF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C3 4.7uF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C5 10uF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C7 100pF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C8 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C12 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C17 10uF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C18 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C19 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C20 22nF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C21 10uF
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C22 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component C23 1uF
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component C24 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component C26 1nF
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component C27 2.2uF
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component C28 22nF
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component C29 4.7uF
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component C30 22nF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C31 20pF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C33 10uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C34 10uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C37 1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C38 1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C39 1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C40 1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C41 1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C44 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C45 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C46 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C47 1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C48 2.2uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C50 2.2uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C51 22uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C52 22uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C53 22uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C54 22uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C55 22uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C56 22uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C57 1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C59 22nF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C60 1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C62 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C63 10uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C65 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C67 1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C74 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C77 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C83 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C84 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C85 1nF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C86 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C88 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C89 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C90 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C91 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C95 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C97 10uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C98 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C99 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C101 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C103 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C110 1nF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C112 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C113 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C115 1nF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C116 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C117 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C118 10uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C119 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C120 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C121 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C122 10uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C123 22uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C129 1nF
+Added Member To Class: ClassName=U_DDRC_Section Member=Component C132 0.1uF
+Added Member To Class: ClassName=U_DDRC_Section Member=Component C139 0.1uF
+Added Member To Class: ClassName=U_CameraOrDisplay_Sheet Member=Component C142 4.7uF
+Added Member To Class: ClassName=U_CameraOrDisplay_Sheet Member=Component C144 4.7uF
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component C148 20pF
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component C149 20pF
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component C151 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet Member=Component C158 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet Member=Component C159 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet Member=Component C160 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C161 1uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C162 1uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C163 1uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C164 10uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C165 10uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C166 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C167 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C168 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C169 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component C170 0.1uF
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component C173 0.1uF
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component C174 1uF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C175 0.1uF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C177 0.1uF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C178 0.1uF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C180 2.2uF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C181 0.1uF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C182 1uF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C183 0.1uF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C184 27pF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C185 27pF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C186 20pF
+Added Member To Class: ClassName=U_DSP_Section Member=Component C187 20pF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C188 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C193 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C194 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C195 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C197 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C198 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C199 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C200 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C201 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C202 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C203 1nF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C204 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C205 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C206 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C207 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C208 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C209 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C210 1nF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C211 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C212 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C213 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C214 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C217 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C218 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C228 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C229 1nF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C230 1uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C235 4.7uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C237 0.1uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C238 0.1uF
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component C240 10pF
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component C241 4.7uF
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component C243 10pF
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component C244 10pF
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component C245 4.7uF
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component C246 22uF
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component D1 B5819WS
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component D6 B5819WS
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component D10 ESD9X5VU
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component D12 ESD9X5VU
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component D14 ESD9X5VU
+Added Member To Class: ClassName=U_USB_Sheet Member=Component D16 ESD5344D-10/TR
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component D22 BZT52C3V3-E3-08
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component D24 ESD9X5VU
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component D25 TPD4E05U06DQAR
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component D26 ESD5451N-2/TR
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component D27 TPD4E05U06DQAR
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component D28 TPD4E05U06DQAR
+Added Member To Class: ClassName=U_Connector_Section Member=Component D29 BAT54CW
+Added Member To Class: ClassName=U_Connector_Section Member=Component D30 B5819WS
+Added Member To Class: ClassName=U_Connector_Section Member=Component D31 BZT52C3V3-E3-08
+Added Member To Class: ClassName=U_Connector_Section Member=Component D32 ESD5451N-2/TR
+Added Member To Class: ClassName=U_Connector_Section Member=Component D33 ESD5451N-2/TR
+Added Member To Class: ClassName=U_Connector_Section Member=Component D34 B5819WS
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component J7 U.FL-R-SMT-1(80)
+Added Member To Class: ClassName=U_Connector_Section Member=Component J9 0473460001
+Added Member To Class: ClassName=U_Connector_Section Member=Component J11 CR1220-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component J12 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component L3 2.2uH
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component L6 1uH
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component L9 2.2uH
+Added Member To Class: ClassName=U_USB_Sheet Member=Component L10 SDCW2012-2-900TF
+Added Member To Class: ClassName=U_DSP_Section Member=Component L11 BLM15AG601SN1D
+Added Member To Class: ClassName=U_Connector_Section Member=Component LED2 Green
+Added Member To Class: ClassName=U_Connector_Section Member=Component LED4 Yellow
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component P1 TEST POINT
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P6 TEST POINT
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P8 TEST POINT
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P10 61300211121
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P11 TEST POINT
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P12 TEST POINT
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P13 TEST POINT
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P17 Test Point
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P19 Test Point
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component P21 Test Point
+Added Member To Class: ClassName=U_DDRC_Section Member=Component P22 Test Point
+Added Member To Class: ClassName=U_DDRC_Section Member=Component P23 Test Point
+Added Member To Class: ClassName=U_eMMC_Sheet Member=Component P25 TEST POINT
+Added Member To Class: ClassName=U_Interface_Sheet Member=Component P27 61300611121
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component P29 61300211121
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component P30 61300211121
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component P31 61300211121
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component P32 Test Point
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component P33 TEST POINT
+Added Member To Class: ClassName=U_USB_Sheet Member=Component P34 TEST POINT
+Added Member To Class: ClassName=U_DSP_Section Member=Component P36 61300211121
+Added Member To Class: ClassName=U_DSP_Section Member=Component P37 61300211121
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component P39 61300211121
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component Q3 WNM6001-3/TR
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component Q5 WNM6001-3/TR
+Added Member To Class: ClassName=U_Connector_Section Member=Component Q7 SI2302-TP
+Added Member To Class: ClassName=U_Connector_Section Member=Component Q9 S8050
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component R8 30K
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component R14 33.2K
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component R16 33K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R28 150K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R30 100R
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R32 10K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R34 200K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R35 1K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R36 1K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R37 100R
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R38 1K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R39 10K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R41 4.7K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R43 4.7K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R45 0R
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R47 2M
+Added Member To Class: ClassName=U_DDRC_Section Member=Component R49 0R
+Added Member To Class: ClassName=U_DDRC_Section Member=Component R50 240R
+Added Member To Class: ClassName=U_CameraOrDisplay_Sheet Member=Component R53 1K
+Added Member To Class: ClassName=U_eMMC_Sheet Member=Component R56 10K
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component R62 0R
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component R64 1M
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component R66 10K
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component R68 33R
+Added Member To Class: ClassName=U_SDIO_SDMMC_Sheet Member=Component R72 33R
+Added Member To Class: ClassName=U_USB_Sheet Member=Component R74 1R
+Added Member To Class: ClassName=U_USB_Sheet Member=Component R76 133R
+Added Member To Class: ClassName=U_USB_Sheet Member=Component R78 499R
+Added Member To Class: ClassName=U_USB_Sheet Member=Component R82 499R
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component R86 100K
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component R88 2M
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component R90 4.7K
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component R91 4.7K
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component R92 4.7K
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component R93 1.5K
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component R94 4.7K
+Added Member To Class: ClassName=U_HDMI_Sheet Member=Component R95 1.5K
+Added Member To Class: ClassName=U_DSP_Section Member=Component R96 10K
+Added Member To Class: ClassName=U_DSP_Section Member=Component R97 10K
+Added Member To Class: ClassName=U_DSP_Section Member=Component R98 10K
+Added Member To Class: ClassName=U_DSP_Section Member=Component R100 220R
+Added Member To Class: ClassName=U_DSP_Section Member=Component R102 10K
+Added Member To Class: ClassName=U_DSP_Section Member=Component R103 47R
+Added Member To Class: ClassName=U_DSP_Section Member=Component R104 10K
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component R106 10K
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component R107 10K
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component R108 0R
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component R109 10K
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component R110 10K
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component R111 10K
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component R112 22R
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component R113 10K
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component R114 220R
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component R115 4.7K
+Added Member To Class: ClassName=U_Connector_Section Member=Component R116 100R
+Added Member To Class: ClassName=U_Connector_Section Member=Component R117 10K
+Added Member To Class: ClassName=U_Connector_Section Member=Component R118 10K
+Added Member To Class: ClassName=U_Connector_Section Member=Component R121 100R
+Added Member To Class: ClassName=U_Connector_Section Member=Component R123 10K
+Added Member To Class: ClassName=U_Connector_Section Member=Component R125 10K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component SB2 Solder Bridge
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component SB4 Solder Bridge
+Added Member To Class: ClassName=U_Interface_Sheet Member=Component SB12 Solder Bridge
+Added Member To Class: ClassName=U_Interface_Sheet Member=Component SB13 Solder Bridge
+Added Member To Class: ClassName=U_MIPI_Sheet Member=Component SB14 Solder Bridge
+Added Member To Class: ClassName=U_MISCIO_Sheet Member=Component SB16 Solder Bridge
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component SB24 Solder Bridge
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component SB25 Solder Bridge
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component SB26 Solder Bridge
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component SB27 Solder Bridge
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component SB28 Solder Bridge
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component SB30 Solder Bridge
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component SB31 Solder Bridge
+Added Member To Class: ClassName=U_Connector_Section Member=Component SB33 Solder Bridge
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component SW1 TS-1185EC-C-D-B
+Added Member To Class: ClassName=U_Power_Sheet_2 Member=Component SW3 TS-1185EC-C-D-B
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component U1 SYR837PKC
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component U4 TPS563201DDCR
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component U9 RK808-D
+Added Member To Class: ClassName=U_USB_Sheet_2 Member=Component U13 FUSB302BMPX
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component U15 RS512M32LD3D2LMZ-125BT
+Added Member To Class: ClassName=U_WiFi_Module_Section Member=Component U17 AP6398S
