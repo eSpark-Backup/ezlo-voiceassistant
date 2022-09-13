@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C53-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=C54-1
+Removed Member From Class: ClassName=U_Connector_Section Member=D6
+Added Pin To Net: NetName=VCCA_0V9 Pin=C51-1
+Added Pin To Net: NetName=VCCA_0V9 Pin=C52-1
+Added Pin To Net: NetName=VCC3V3_S3 Pin=C53-1
+Added Pin To Net: NetName=VCC3V3_S3 Pin=C54-1
+Added Member To Class: ClassName=U_eMMC_Sheet Member=Component C147 0.1uF
+Added Member To Class: ClassName=U_USB_Sheet Member=Component C154 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R35 1K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component R36 1K
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component SB1 Solder Bridge

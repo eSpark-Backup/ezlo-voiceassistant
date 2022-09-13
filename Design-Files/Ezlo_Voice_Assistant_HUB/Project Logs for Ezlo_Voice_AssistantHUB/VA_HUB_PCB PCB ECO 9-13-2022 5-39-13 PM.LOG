@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC1V8_DDR Pin=R45-1
+Removed Pin From Net: NetName=VCC_1V8 Pin=R45-2
+Removed Pin From Net: NetName=VCC_DDRC Pin=R46-1
+Removed Pin From Net: NetName=VCC_DDR Pin=R46-2
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R45
+Removed Member From Class: ClassName=U_Power_Sheet_3 Member=R46
