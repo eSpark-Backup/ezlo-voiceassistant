@@ -1,0 +1,9 @@
+Added Component: Designator=L3(YSPI0520-2R2M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_YJYCOIN-YSPI0520-2R2M_C718375.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YJYCOIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "YSPI0520-2R2M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=VCC3V3_SYS Pin=L3-2
+Add Pin To Net: Unknown Pin: Pin U10-AG29
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component L3 2.2uH
