@@ -1,0 +1,577 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\XPENDER\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
+Date     : 9/24/2022
+Time     : 3:19:50 PM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_3')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_2')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Pad C111-1(2351.323mil,1328.822mil) on Top Layer [Unplated] And Track (2743.913mil,1290.913mil)(3550.823mil,1290.913mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Via (1762.208mil,1540.35mil) from Top Layer to Bottom Layer And Pad C119-1(2417.823mil,1549.902mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCCA_0V9 Between Via (1864.571mil,1412.396mil) from Top Layer to Bottom Layer And Pad C130-1(1867.822mil,1389.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCCA0V9_HDMI Between Pad C143-1(1863.822mil,1767.322mil) on Bottom Layer [Unplated] And Pad C142-1(1949.822mil,1799.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net RESET_L Between Pad C150-1(1456.639mil,1648.822mil) on Bottom Layer [Unplated] And Pad U10-T30(1467.917mil,1629.916mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_VDDPST Between Pad U10-U26(1570.278mil,1655.508mil) on Top Layer And Pad C151-2(1577.822mil,1643.322mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_S3 Between Via (1685.437mil,1796.256mil) from Top Layer to Bottom Layer And Pad C153-1(1708.5mil,1772mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_S3 Between Pad C153-1(1708.5mil,1772mil) on Bottom Layer [Unplated] And Via (1762.208mil,1770.664mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_0V9 Between Pad C154-1(1237.822mil,1777.322mil) on Bottom Layer [Unplated] And Track (1239.822mil,1767.322mil)(1250.822mil,1756.322mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TB1 Between Pad U10-V24(1621.46mil,1681.098mil) on Top Layer And Pad C155-1(1740.822mil,2090.322mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net TB2 Between Pad U10-U24(1621.46mil,1655.508mil) on Top Layer And Pad C156-1(1684.822mil,2090.322mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_SBU1 Between Pad C167-1(651.322mil,3257.822mil) on Bottom Layer [Unplated] And Pad U10-AK20(1723.822mil,1988.184mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0TX2_N Between Pad C171-2(684.822mil,3259.322mil) on Top Layer [Unplated] And Pad J4-B3(697.082mil,3373.106mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0TX2_P Between Pad C172-2(643mil,3259.5mil) on Top Layer [Unplated] And Track (648.63mil,3332mil)(648.63mil,3363.496mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_SYS Between Track (1502mil,605mil)(1634mil,605mil) on Routing 1 And Pad C39-1(1644.822mil,623.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Pad U9-3(1850.546mil,479.046mil) on Top Layer And Pad C62-1(2059.823mil,422.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_L Between Pad C69-1(1292.822mil,1464.322mil) on Bottom Layer [Unplated] And Via (1659.844mil,1565.94mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Pad C85-1(2275.823mil,1701.822mil) on Bottom Layer [Unplated] And Pad C74-1(2280.823mil,1766.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCC_1V5 Between Pad C75-1(1612.322mil,1503.822mil) on Bottom Layer [Unplated] And Pad C77-1(1612.322mil,1542.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Pad C81-1(2268.323mil,1602.822mil) on Bottom Layer [Unplated] And Pad C76-1(2275.823mil,1648.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Pad C76-1(2275.823mil,1648.822mil) on Bottom Layer [Unplated] And Pad C85-1(2275.823mil,1701.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCC_1V5 Between Pad C77-1(1612.322mil,1542.822mil) on Bottom Layer [Unplated] And Via (1637.822mil,1543.822mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1966.935mil,1540.348mil) from Top Layer to Bottom Layer And Pad C78-1(1991.822mil,1546.322mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Pad C80-1(2268.323mil,1482.822mil) on Bottom Layer [Unplated] And Pad C79-1(2268.323mil,1522.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Pad C79-1(2268.323mil,1522.822mil) on Bottom Layer [Unplated] And Pad C83-1(2268.323mil,1562.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Pad C80-1(2268.323mil,1482.822mil) on Bottom Layer [Unplated] And Track (2707.094mil,1467.094mil)(3551.823mil,1467.094mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1966.935mil,1514.758mil) from Top Layer to Bottom Layer And Pad C80-1(2268.323mil,1482.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Pad C83-1(2268.323mil,1562.822mil) on Bottom Layer [Unplated] And Pad C81-1(2268.323mil,1602.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_D_N Between Pad D18-1(814.685mil,3332mil) on Bottom Layer And Pad U10-AH23(1647.051mil,1937.004mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_D_N Between Pad J4-B7(795.508mil,3373.106mil) on Top Layer And Pad D18-10(814.685mil,3363.496mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0TX2_N Between Pad D20-6(628.945mil,3363.496mil) on Bottom Layer And Pad J4-B3(697.082mil,3373.106mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_D_P Between Pad J4-B6(756.138mil,3373.106mil) on Top Layer And Pad J4-A6(785.665mil,3323.893mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_D_P Between Pad J4-A6(785.665mil,3323.893mil) on Top Layer And Pad U10-AG23(1647.051mil,1911.412mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_D_N Between Pad J4-A7(765.98mil,3323.893mil) on Top Layer And Pad J4-B7(795.508mil,3373.106mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0TX2_P Between Track (648.63mil,3332mil)(648.63mil,3363.496mil) on Bottom Layer And Pad J4-B2(677.397mil,3373.106mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_D_P Between Pad J4-B6(756.138mil,3373.106mil) on Top Layer And Track (795mil,3363.496mil)(795mil,3363.496mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_EFUSE Between Pad P1-1(576.822mil,2537.822mil) on Top Layer And Via (1634.255mil,1847.436mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Pad P11-1(575.822mil,2451.822mil) on Top Layer And Via (887mil,1708mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_DET_L Between Pad P33-1(576.822mil,1937.822mil) on Top Layer And Pad U10-V28(1519.099mil,1681.098mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA0V9_HDMI Between Pad P8-1(575.822mil,2109.422mil) on Top Layer And Via (1826mil,1758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_3V0 Between Pad R55-2(1507.822mil,1332.822mil) on Bottom Layer [Unplated] And Via (1634.255mil,1463.578mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Via (1608.665mil,1821.846mil) from Top Layer to Bottom Layer And Pad R58-2(1688.822mil,1994.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCC_EFUSE Between Pad R65-1(1668.822mil,1880.822mil) on Bottom Layer [Unplated] And Track (2898mil,665.482mil)(2898mil,1385.373mil) on Routing 2 
+   Violation between Un-Routed Net Constraint: Net VCC_EFUSE Between Via (1634.255mil,1847.436mil) from Top Layer to Bottom Layer And Pad R65-1(1668.822mil,1880.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Track (1086mil,1975mil)(1239.645mil,1975mil) on Top Layer And Pad R66-2(1245.823mil,1944.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Track (887mil,1708mil)(1238.8mil,1708mil) on Top Layer And Pad R66-2(1245.823mil,1944.822mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_CMD Between Pad R67-2(28.823mil,2278.822mil) on Bottom Layer [Unplated] And Track (2790.231mil,2478mil)(3774mil,2478mil) on Routing 1 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_D0 Between Pad R68-2(1525.365mil,2138.822mil) on Top Layer [Unplated] And Track (2795mil,2574.2mil)(3783mil,2574.2mil) on Routing 1 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_CLK Between Pad R69-1(28.823mil,2379.822mil) on Bottom Layer [Unplated] And Track (2795mil,2552.4mil)(3783mil,2552.4mil) on Routing 1 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_D1 Between Pad R70-2(1580.136mil,2138.822mil) on Top Layer [Unplated] And Track (2857.115mil,2596mil)(3783mil,2596mil) on Routing 1 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_D2 Between Pad R71-2(1415.822mil,2138.822mil) on Top Layer [Unplated] And Track (2780mil,2501mil)(3753.4mil,2501mil) on Routing 1 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_D2 Between Track (403.822mil,2493.822mil)(651.822mil,2493.822mil) on Routing 2 And Pad R71-2(1415.822mil,2138.822mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_D3 Between Pad R72-2(1470.594mil,2138.822mil) on Top Layer [Unplated] And Track (2791.654mil,2490mil)(3764.2mil,2490mil) on Routing 1 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_D3 Between Track (393.822mil,2523.822mil)(649.822mil,2523.822mil) on Routing 2 And Pad R72-2(1470.594mil,2138.822mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net TB1 Between Pad R73-2(1299.822mil,1769.822mil) on Top Layer [Unplated] And Pad U10-V24(1621.46mil,1681.098mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TB2 Between Pad R74-2(1299.822mil,1709.022mil) on Top Layer [Unplated] And Pad U10-U24(1621.46mil,1655.508mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net WIFI_REG_ON_H Between Pad SB16-2(1239.822mil,1823.822mil) on Top Layer [Unplated] And Via (1853mil,2171mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_0V9 Between Track (1239.822mil,1767.322mil)(1250.822mil,1756.322mil) on Top Layer And Pad SB19-2(1239.822mil,1923.822mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net WORK_LED Between Pad SB5-1(1239.822mil,1278.822mil) on Top Layer [Unplated] And Via (2813mil,713.397mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Pad U10-AC24(1621.46mil,1809.05mil) on Top Layer And Pad U10-AA21(1698.233mil,1757.87mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Pad U10-AA21(1698.233mil,1757.87mil) on Top Layer And Track (1775.438mil,1757.87mil)(1784.389mil,1766.822mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA1V8_CODEC Between Pad U10-Y8(2030.909mil,1732.278mil) on Top Layer And Pad U10-AA8(2030.909mil,1757.87mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_SBU2_DC Between Track (917mil,2276mil)(1193.223mil,2276mil) on Top Layer And Pad U10-AG17(1800.594mil,1911.412mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC1_P Between Track (1357.373mil,2288mil)(1467mil,2288mil) on Bottom Layer And Pad U10-AG24(1621.46mil,1911.412mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_PWR Between Pad U10-AG4(2133.271mil,1911.412mil) on Top Layer And Pad U8-3(3231.004mil,240.421mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_SBU1_DC Between Track (910.958mil,2258mil)(1197mil,2258mil) on Top Layer And Pad U10-AH17(1800.594mil,1937.004mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC1_N Between Track (1364mil,2304mil)(1467mil,2304mil) on Bottom Layer And Pad U10-AH24(1621.46mil,1937.004mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net RECOVER Between Track (1231mil,925mil)(1274mil,968mil) on Routing 2 And Pad U10-AH26(1570.278mil,1937.004mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net UART2DBG.UART2DBG_TX Between Pad U10-AJ4(2133.271mil,1962.594mil) on Top Layer And Track (2757.822mil,1457.822mil)(3654.323mil,1457.822mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_RX1_P Between Track (920.273mil,3110.809mil)(920.273mil,3319.207mil) on Routing 2 And Pad U10-AK21(1698.233mil,1988.184mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_TX1_N Between Track (920.799mil,2292mil)(1169.712mil,2292mil) on Top Layer And Pad U10-AK22(1672.64mil,1988.184mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_RX2_P Between Track (1077.373mil,2116mil)(1169mil,2116mil) on Routing 1 And Pad U10-AK23(1647.051mil,1988.184mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_TX2_N Between Track (1072.799mil,2227mil)(1219mil,2227mil) on Routing 1 And Pad U10-AK24(1621.46mil,1988.184mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC1_RX1_P Between Pad U10-AK25(1595.87mil,1988.184mil) on Top Layer And Track (1238.61mil,2258mil)(1753mil,2258mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC1_TX1_N Between Track (1420.822mil,2370.722mil)(1435.272mil,2356.272mil) on Top Layer And Pad U10-AK26(1570.278mil,1988.184mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_U2VBUSDET Between Track (598mil,2535mil)(1123.035mil,2009.965mil) on Routing 1 And Pad U10-AK30(1467.917mil,1988.184mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_SBU2 Between Pad U10-AL20(1723.822mil,2013.774mil) on Top Layer And Track (1216mil,2216mil)(1789mil,2216mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_RX1_N Between Track (904.273mil,3110.809mil)(904.273mil,3312.579mil) on Routing 2 And Pad U10-AL21(1698.233mil,2013.774mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_TX1_P Between Track (926.598mil,2306mil)(1167.712mil,2306mil) on Top Layer And Pad U10-AL22(1672.64mil,2013.774mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_RX2_N Between Track (1084mil,2132mil)(1169mil,2132mil) on Routing 1 And Pad U10-AL23(1647.051mil,2013.774mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_TX2_P Between Track (1067mil,2213mil)(1219mil,2213mil) on Routing 1 And Pad U10-AL24(1621.46mil,2013.774mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC1_RX1_N Between Pad U10-AL25(1595.87mil,2013.774mil) on Top Layer And Track (1231.154mil,2240mil)(1753mil,2240mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC1_TX1_P Between Track (1438.822mil,2378.178mil)(1448mil,2369mil) on Top Layer And Pad U10-AL26(1570.278mil,2013.774mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_S3 Between Pad U10-Y25(1595.87mil,1732.278mil) on Top Layer And Pad U10-J23(1647.051mil,1450.782mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_1V5 Between Pad U10-J24(1621.46mil,1450.782mil) on Top Layer And Via (1637.822mil,1543.822mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Pad U10-L21(1698.233mil,1501.964mil) on Top Layer And Via (1711.026mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Pad U10-L23(1647.051mil,1501.964mil) on Top Layer And Via (1659.844mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Pad U10-M13(1902.957mil,1527.554mil) on Top Layer And Via (1915.751mil,1540.348mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Pad U10-M19(1749.412mil,1527.554mil) on Top Layer And Via (1762.208mil,1514.76mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Pad U10-M19(1749.412mil,1527.554mil) on Top Layer And Via (1762.208mil,1540.35mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Pad U10-M21(1698.233mil,1527.554mil) on Top Layer And Via (1711.026mil,1540.348mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC5V0_TYPEC0_EN Between Track (1072mil,1651mil)(1109mil,1614mil) on Routing 1 And Pad U10-M24(1621.46mil,1527.554mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net YELLOW_LED Between Pad U10-N24(1621.46mil,1553.144mil) on Top Layer And Track (3084.823mil,509.822mil)(3234.823mil,509.822mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_3V0 Between Pad U10-P23(1647.051mil,1578.736mil) on Top Layer And Track (2005.319mil,1809.184mil)(2015.233mil,1819.098mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC5V0_HOST_EN Between Track (1516mil,2318mil)(1516mil,3021mil) on Routing 1 And Pad U10-R25(1595.87mil,1604.326mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net PMIC_SLEEP_H Between Track (1398.609mil,1588.609mil)(1412mil,1602mil) on Routing 2 And Pad U10-R30(1467.917mil,1604.326mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_SDIO Between Pad U10-T23(1647.051mil,1629.916mil) on Top Layer And Via (1745mil,583mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net RESET_L Between Pad U10-T30(1467.917mil,1629.916mil) on Top Layer And Via (1594.39mil,427.866mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1787.801mil,1668.302mil) from Top Layer to Bottom Layer And Pad U10-U17(1800.594mil,1655.508mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1762.208mil,1668.302mil) from Top Layer to Bottom Layer And Pad U10-U18(1775.005mil,1655.508mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Pad U10-U18(1775.005mil,1655.508mil) on Top Layer And Via (1787.801mil,1668.302mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Pad U10-U25(1595.87mil,1655.508mil) on Top Layer And Via (1634.256mil,1617.122mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1736.619mil,1693.892mil) from Top Layer to Bottom Layer And Pad U10-V19(1749.412mil,1681.098mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Pad U10-V20(1723.822mil,1681.098mil) on Top Layer And Via (1736.619mil,1693.892mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Pad U10-V21(1698.233mil,1681.098mil) on Top Layer And Via (1711.026mil,1668.304mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_DET_L Between Pad U10-V28(1519.099mil,1681.098mil) on Top Layer And Track (2613mil,2378mil)(3394mil,2378mil) on Routing 1 
+   Violation between Un-Routed Net Constraint: Net VCCA_0V9 Between Pad U10-Y21(1698.233mil,1732.278mil) on Top Layer And Pad U10-Y19(1749.412mil,1732.278mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_0V9 Between Pad U10-Y22(1672.64mil,1732.278mil) on Top Layer And Pad U10-Y21(1698.233mil,1732.278mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_S3 Between Pad U10-Y25(1595.87mil,1732.278mil) on Top Layer And Via (1685.437mil,1796.256mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA1V8_CODEC Between Track (1479mil,330mil)(1479mil,633mil) on Routing 1 And Pad U10-Y8(2030.909mil,1732.278mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net USBA_P Between Track (2449mil,3251mil)(2791mil,2909mil) on Routing 2 And Pad U14-33(3516.823mil,2917.562mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_SYS Between Pad U9-13(1712.751mil,479.046mil) on Top Layer And Pad U9-10(1754.089mil,479.046mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_SYS Between Pad U9-10(1754.089mil,479.046mil) on Top Layer And Pad U9-8(1781.649mil,479.046mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA0V9_HDMI Between Pad U9-5(1822.986mil,479.046mil) on Top Layer And Via (1826mil,1758mil) from Top Layer to Bottom Layer 
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 103.49 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 103.51 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 103.51 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 103.531 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 103.531 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 103.531 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1063.934 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1096.603 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 120.604 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1285.079 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 132.918 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 132.964 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1331.593 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1624.009 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1693.899 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1755.61 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 178.196 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1794.624 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 205.12 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 212.343 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 222.129 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 231.922 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 254.626 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 258.438 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 262.602 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 264.388 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 264.42 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 276.79 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 278.022 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 282.139 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 287.709 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 320.553 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 369.216 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 372.722 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 4119.586 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 452.115 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 521.392 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 54.14 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 553.849 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 56.987 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 59.136 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 59.815 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 59.83 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 593.215 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 773.452 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 84.107 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 844.6 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 844.6 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.123 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.123 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.123 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.123 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.181 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.181 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.181 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.181 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.879 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.879 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.879 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 845.879 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 999.888 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 103.144 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 107.869 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 108.285 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 108.347 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 123.521 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 145.612 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 146.458 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 149.475 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 152.399 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 162.155 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 171.951 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 171.951 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 175.006 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 175.139 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 177.289 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 187.252 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 188.733 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 191.214 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 204.318 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 221.861 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 221.861 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 227.768 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 231.648 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 232.227 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 315.915 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 356.417 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 429.318 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 472.541 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 642.825 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 921.912 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_3V3) on Power Plane. Dead copper detected. Copper area is : 116.252 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_3V3) on Power Plane. Dead copper detected. Copper area is : 1194.877 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_3V3) on Power Plane. Dead copper detected. Copper area is : 1302.993 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_3V3) on Power Plane. Dead copper detected. Copper area is : 1363.382 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_3V3) on Power Plane. Dead copper detected. Copper area is : 1434.894 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_3V3) on Power Plane. Dead copper detected. Copper area is : 222.636 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_3V3) on Power Plane. Dead copper detected. Copper area is : 273.869 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_5V) on Power Plane. Dead copper detected. Copper area is : 1232.923 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 1402.203 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 257.891 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 17.741 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 228.221 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 50.126 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 526.335 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC3V3_SYS) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 77034.003 sq. mils
+   Violation between Isolated copper: Split Plane  (VCCA_0V9) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 180.822 sq. mils
+   Violation between Isolated copper: Split Plane  (VCCA_0V9) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 291.863 sq. mils
+   Violation between Isolated copper: Split Plane  (VCCA_0V9) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 78540.063 sq. mils
+   Violation between Isolated copper: Split Plane  (VCCA_0V9) on Power Plane. Dead copper detected. Copper area is : 1264.371 sq. mils
+   Violation between Isolated copper: Split Plane  (VCCA_0V9) on Power Plane. Dead copper detected. Copper area is : 350.963 sq. mils
+   Violation between Isolated copper: Split Plane  (VCCA_0V9) on Power Plane. Dead copper detected. Copper area is : 4115.479 sq. mils
+   Violation between Isolated copper: Split Plane  (VCCA_0V9) on Power Plane. Dead copper detected. Copper area is : 739.187 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_CPU_L) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 103.49 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 302.516 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 320.589 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 59.83 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 59.846 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 84.236 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Dead copper detected. Copper area is : 261.275 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Dead copper detected. Copper area is : 80111.076 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Dead copper detected. Copper area is : 856.616 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Dead copper detected. Copper area is : 923.005 sq. mils
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Track (1205.723mil,1642.322mil)(1272.322mil,1642.322mil) on Bottom Layer And Via (1659.844mil,1693.894mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Track (1271.186mil,1065.186mil)(1342mil,994.373mil) on Routing 2 And Via (1864.571mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Track (1274.822mil,2.822mil)(1274.822mil,371mil) on Routing 2 And Via (1850.546mil,577.453mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net PWR_KEY_L Between Track (1417mil,-56mil)(1417mil,424mil) on Routing 2 And Via (1531.892mil,1693.894mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_1V5 Between Track (1646.689mil,1552.736mil)(1646.689mil,1553.736mil) on Top Layer And Track (2031.043mil,1809.05mil)(2040.957mil,1799.136mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VPP_OTP Between Via (1795.121mil,611.879mil) from Top Layer to Bottom Layer And Track (1809.207mil,479.046mil)(1809.207mil,611.793mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_3V0 Between Via (2015.233mil,1819.232mil) from Top Layer to Bottom Layer And Track (2102.5mil,2894.5mil)(2102.5mil,2894.5mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_1V5 Between Via (2041.091mil,1799.136mil) from Top Layer to Bottom Layer And Track (2150mil,629mil)(2160.823mil,618.178mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net UART0.UART0_RXD Between Track (2248.618mil,1832.618mil)(2248.618mil,1832.822mil) on Bottom Layer And Track (2745.178mil,1773.822mil)(3302.358mil,1773.822mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_GPU_FB Between Via (1838.978mil,1617.12mil) from Top Layer to Bottom Layer And Track (2678mil,412mil)(2678mil,1464mil) on Routing 2 
+   Violation between Un-Routed Net Constraint: Net UART0.UART0_RTS Between Via (2097.823mil,2022.822mil) from Top Layer to Bottom Layer And Track (2736.178mil,1725.822mil)(3360.657mil,1725.822mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net UART0.UART0_CTS Between Via (2043.705mil,1924.208mil) from Top Layer to Bottom Layer And Track (2746mil,1741.822mil)(3341.224mil,1741.822mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net UART2DBG.UART2DBG_RX Between Via (2197.249mil,2000.98mil) from Top Layer to Bottom Layer And Track (2762.178mil,1581.822mil)(3828.823mil,1581.822mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B_FB Between Via (1762.208mil,1565.94mil) from Top Layer to Bottom Layer And Track (3317.823mil,303.822mil)(3317.823mil,339.822mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SDMMC0_CLK Between Via (4161.823mil,2962.822mil) from Top Layer to Bottom Layer And Track (4198.823mil,2966.822mil)(4199.823mil,2965.822mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net SPI1_RXD/UART4_RXD Between Track (-42.178mil,1745.822mil)(676.308mil,1745.822mil) on Bottom Layer And Via (1531.892mil,1565.94mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net TYPEC0_CC1 Between Track (661.35mil,3110.334mil)(674.24mil,3097.444mil) on Top Layer And Via (767mil,3145mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Track (887mil,1708mil)(1238.8mil,1708mil) on Top Layer And Via (1583.074mil,1668.304mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_3V0 Between Via (608.611mil,931.581mil) from Top Layer to Bottom Layer And Via (1457mil,438mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Via (1583.074mil,1668.304mil) from Top Layer to Bottom Layer And Via (1608.665mil,1821.846mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA1V8_HDMI Between Via (1597mil,250mil) from Top Layer to Bottom Layer And Via (1826.185mil,1834.64mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_3V0 Between Via (1634.255mil,1463.578mil) from Top Layer to Bottom Layer And Via (1634.255mil,1565.94mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCCA_1V8 Between Via (1634.256mil,1617.122mil) from Top Layer to Bottom Layer And Via (1762.208mil,1591.532mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Via (1659.844mil,1514.758mil) from Top Layer to Bottom Layer And Via (1659.844mil,1540.348mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Via (1659.844mil,1514.758mil) from Top Layer to Bottom Layer And Via (1685.437mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1659.844mil,1693.894mil) from Top Layer to Bottom Layer And Via (1685.437mil,1693.894mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Via (1685.437mil,1463.578mil) from Top Layer to Bottom Layer And Via (1685.437mil,1489.168mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Via (1685.437mil,1489.168mil) from Top Layer to Bottom Layer And Via (1685.437mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1685.437mil,1693.894mil) from Top Layer to Bottom Layer And Via (1711.026mil,1693.894mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_S3 Between Via (709.822mil,1429.995mil) from Top Layer to Bottom Layer And Via (1685.437mil,1796.256mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Via (1711.026mil,1514.758mil) from Top Layer to Bottom Layer And Via (1736.617mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Via (1736.617mil,1463.578mil) from Top Layer to Bottom Layer And Via (1736.617mil,1489.168mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CPU_B Between Via (1736.617mil,1489.168mil) from Top Layer to Bottom Layer And Via (1736.617mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1787.799mil,1489.168mil) from Top Layer to Bottom Layer And Via (1787.799mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1787.799mil,1514.758mil) from Top Layer to Bottom Layer And Via (1787.799mil,1617.12mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1787.799mil,1617.12mil) from Top Layer to Bottom Layer And Via (1787.801mil,1642.712mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Via (1813.39mil,1642.712mil) from Top Layer to Bottom Layer And Via (2743mil,1378.367mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1864.571mil,1514.758mil) from Top Layer to Bottom Layer And Via (1890.162mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1864.571mil,1565.94mil) from Top Layer to Bottom Layer And Via (1890.162mil,1565.94mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1890.162mil,1514.758mil) from Top Layer to Bottom Layer And Via (1915.753mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1890.162mil,1565.94mil) from Top Layer to Bottom Layer And Via (1915.753mil,1565.94mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1915.751mil,1540.348mil) from Top Layer to Bottom Layer And Via (1915.753mil,1565.94mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1915.753mil,1514.758mil) from Top Layer to Bottom Layer And Via (1941.342mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1941.342mil,1514.758mil) from Top Layer to Bottom Layer And Via (1966.935mil,1514.758mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_CENTER Between Via (1966.935mil,1514.758mil) from Top Layer to Bottom Layer And Via (1966.935mil,1540.348mil) from Top Layer to Bottom Layer 
+Rule Violations :282
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=40mil) (Preferred=22mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_2'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+   Violation between Starved Thermal on GND Plane: Via (1537.822mil,1484.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1544.822mil,1399.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1557.483mil,1412.396mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1558.822mil,1474.822mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1597.822mil,390.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1604.478mil,1329.917mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1514.758mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1591.53mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1668.304mil) from Top Layer to Bottom Layer. Only 48% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1693.894mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1719.484mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1745.074mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1770.666mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1796.256mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1821.846mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1634.255mil,1873.028mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1659.844mil,1463.578mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1659.844mil,1489.168mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1659.844mil,1565.94mil) from Top Layer to Bottom Layer. Only 24% copper is connected to the hole.
+   Violation between Starved Thermal on Power Plane: Via (1659.844mil,1591.53mil) from Top Layer to Bottom Layer. Only 28% copper is connected to the hole.
+   Violation between Starved Thermal on Power Plane: Via (1659.844mil,1617.12mil) from Top Layer to Bottom Layer. Only 27% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1659.844mil,1668.304mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1659.844mil,1719.484mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1659.844mil,1821.846mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1659.844mil,1847.436mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1670mil,539mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1437.986mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1540.348mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1565.94mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1591.53mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1617.12mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1668.304mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1719.484mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1821.846mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1685.437mil,1847.436mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1711.026mil,1463.578mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1711.026mil,1489.168mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1711.026mil,1617.12mil) from Top Layer to Bottom Layer. Only 22% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1711.026mil,1898.618mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1719.822mil,528.322mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1736.617mil,1540.348mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1736.617mil,1565.94mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1736.617mil,1617.12mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1736.617mil,1668.304mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1736.619mil,1719.482mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1762.208mil,1412.398mil) from Top Layer to Bottom Layer. Only 48% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1762.208mil,1437.988mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1762.208mil,1489.17mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1762.208mil,1617.122mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1762.208mil,1642.712mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1762.208mil,1693.892mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1762.208mil,1719.482mil) from Top Layer to Bottom Layer. Only 26% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1762.208mil,1796.256mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1787.799mil,1412.396mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1787.799mil,1540.348mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1787.799mil,1565.94mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1787.799mil,1796.256mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1787.801mil,1693.892mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.389mil,1437.988mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.389mil,1489.17mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.389mil,1514.76mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.389mil,1540.348mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.389mil,1591.53mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.389mil,1617.12mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.39mil,1668.302mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.39mil,1693.892mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1813.39mil,1719.482mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1826.822mil,1808.822mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1838.978mil,1540.348mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1838.978mil,1591.53mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1838.978mil,1719.482mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1838.978mil,1745.074mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1838.98mil,1514.758mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1838.98mil,1565.94mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1838.98mil,1642.712mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1838.98mil,1668.302mil) from Top Layer to Bottom Layer. Only 30% copper is connected to the hole.
+   Violation between Starved Thermal on Power Plane: Via (1838.98mil,1693.892mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1838.98mil,1796.256mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1851.822mil,1808.822mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1864.571mil,1335.624mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1864.571mil,1412.396mil) from Top Layer to Bottom Layer. Only 26% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1864.571mil,1463.578mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1864.571mil,1489.168mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1864.571mil,1540.348mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1864.571mil,1591.53mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1864.571mil,1642.712mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1864.571mil,1668.302mil) from Top Layer to Bottom Layer. Only 40% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1864.571mil,1796.256mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1880.315mil,3269.685mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1890.162mil,1489.168mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1890.162mil,1642.712mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1890.162mil,1668.302mil) from Top Layer to Bottom Layer. Only 41% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1890.162mil,1745.074mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1890.162mil,1770.666mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1890.162mil,1873.028mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1890.16mil,1412.396mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1890.16mil,1540.348mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1890.16mil,1591.53mil) from Top Layer to Bottom Layer. Only 29% copper is connected to the hole.
+   Violation between Starved Thermal on Power Plane: Via (1890.16mil,1617.12mil) from Top Layer to Bottom Layer. Only 29% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1902.822mil,1732.822mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1902.822mil,1783.822mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1915.751mil,1463.578mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1915.751mil,1591.53mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1915.751mil,1617.12mil) from Top Layer to Bottom Layer. Only 34% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (1915.751mil,1642.712mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1915.751mil,1745.074mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1915.753mil,1489.168mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1915.753mil,1668.304mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1915.753mil,1770.666mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1915.753mil,1821.846mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1915.753mil,1847.436mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1928.822mil,1732.822mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1928.822mil,1859.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1936.618mil,351.22mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1941.342mil,1335.624mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1941.342mil,1437.988mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1941.342mil,1489.168mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1941.342mil,1565.94mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1941.342mil,1642.712mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1941.342mil,1668.302mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1966.932mil,1437.988mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1966.935mil,1489.168mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1966.935mil,1565.94mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1966.935mil,1668.304mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1966.935mil,1693.894mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1966.935mil,1719.484mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1966.935mil,1745.074mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1966.935mil,1770.666mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1970mil,1825mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1992.524mil,1437.986mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1992.524mil,1463.578mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1992.524mil,1514.758mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1992.524mil,1693.894mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (1992.524mil,1719.484mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1992.524mil,1745.074mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1992.524mil,1770.666mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1992.524mil,1796.256mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (1998.315mil,3269.685mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2005.822mil,1399.822mil) from Top Layer to Bottom Layer. Only 44% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (2005.822mil,1425.822mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2018.114mil,1437.986mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2018.114mil,1463.578mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2018.114mil,1719.484mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2018.114mil,1745.074mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2018.114mil,1770.666mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2018.114mil,1796.256mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2043.705mil,1437.986mil) from Top Layer to Bottom Layer. 3 out of 4 entries are available. But only 49% of entries copper is available.
+   Violation between Starved Thermal on GND Plane: Via (2043.705mil,1463.578mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2043.705mil,1489.168mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2043.705mil,1514.758mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2043.705mil,1540.348mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2043.705mil,1565.94mil) from Top Layer to Bottom Layer. Only 50% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (2043.705mil,1719.484mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2043.705mil,1975.39mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2069.296mil,1335.624mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2069.296mil,1437.986mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2069.296mil,1565.94mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2094.887mil,1437.986mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2094.887mil,1591.53mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2120.477mil,1386.806mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2120.477mil,1770.666mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2146.823mil,1720.822mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (2151mil,192.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (2197.249mil,1924.208mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (-4.163mil,3480.644mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4135.826mil,3352.733mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4136.826mil,50.912mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4142.897mil,3461.627mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4143.897mil,-57.983mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4198.809mil,3480.644mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4199.809mil,-77mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4244.72mil,3345.662mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4245.72mil,57.983mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4251.791mil,3454.556mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4252.791mil,-50.912mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4270.809mil,3398.644mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (4271.809mil,5mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (481mil,3014mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (-5.163mil,-77mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (-50.075mil,3345.662mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (50.748mil,-57.983mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (-51.075mil,57.983mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (51.748mil,3461.627mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (-57.146mil,3454.556mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (57.819mil,50.912mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (-58.146mil,-50.912mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (58.819mil,3352.733mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (605.822mil,505.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (605.822mil,581.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (606.644mil,1451.706mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (607.287mil,1490.508mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (607.822mil,392.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (626.822mil,1470.822mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (706.027mil,1470.822mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (725.027mil,1372.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (745.027mil,1470.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (746.822mil,1409.822mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (747.499mil,375.921mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (755.743mil,531.944mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (-76.163mil,3398.644mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (-77.163mil,5mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (782.079mil,532.854mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (798.681mil,406.31mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (824.027mil,1490.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (842.019mil,437.806mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (846.074mil,396.759mil) from Top Layer to Bottom Layer. Only 46% copper is connected to the hole.
+   Violation between Starved Thermal on GND Plane: Via (858.869mil,257.776mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (862.822mil,1451.822mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (883.822mil,363.322mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (893.468mil,455.822mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (896mil,3410mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (910.051mil,289.334mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (922.846mil,333.626mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (935.822mil,288.822mil) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (948.434mil,333.626mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (952.222mil,374.814mil) from Top Layer to Bottom Layer. Blocked 4 out of 4 entries.
+   Violation between Starved Thermal on Power Plane: Via (974.027mil,333.626mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+   Violation between Starved Thermal on GND Plane: Via (999.616mil,333.626mil) from Top Layer to Bottom Layer. Blocked 2 out of 4 entries.
+Rule Violations :218
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=25.4mil) (InNetClass('USB_A'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:03
