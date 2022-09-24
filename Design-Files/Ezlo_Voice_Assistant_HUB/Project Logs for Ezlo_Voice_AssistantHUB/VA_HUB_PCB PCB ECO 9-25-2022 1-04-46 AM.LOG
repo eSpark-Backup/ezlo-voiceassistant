@@ -1,0 +1,9 @@
+Added Component: Designator=L9(MHP0302-2R2M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_Me-TECH-MHP0302-2R2M_C2934937.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Me-TECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MHP0302-2R2M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VFB4 Pin=L9-1
+Added Pin To Net: NetName=NetL9_2 Pin=L9-2
+Add Pin To Net: Unknown Pin: Pin U10-AG29
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component L9 2.2uH
