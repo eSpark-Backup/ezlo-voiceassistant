@@ -1,0 +1,10 @@
+Added Component: Designator=L7(PSPMAA0412-1R0M-ANP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Power-Inductors_PROD-Tech-PSPMAA0412-1R0M-ANP_C705331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PROD Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PSPMAA0412-1R0M-ANP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VFB2 Pin=L7-1
+Added Pin To Net: NetName=NetL7_2 Pin=L7-2
+Add Pin To Net: Unknown Pin: Pin U10-AG29
+Add Pin To Net: Unknown Pin: Pin U10-R25
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component L7 1uH
