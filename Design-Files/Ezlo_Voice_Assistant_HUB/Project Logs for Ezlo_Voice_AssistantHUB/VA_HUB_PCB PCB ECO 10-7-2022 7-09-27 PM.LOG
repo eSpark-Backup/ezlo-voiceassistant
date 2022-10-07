@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=TYPEC0 Member=TYPEC0_AUX_N
+Removed Member From Class: ClassName=TYPEC0 Member=TYPEC0_AUX_P
+Added Class: Name=TYPEC0_AUX
+Added Member To Class: ClassName=U_Power_Sheet_1 Member=Component C8 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C44 0.1uF
+Added Member To Class: ClassName=U_Power_Sheet_3 Member=Component C46 0.1uF
+Added Member To Class: ClassName=U_Internal_Power_Sheet Member=Component C112 0.1uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C232 0.1uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C233 0.1uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C234 0.1uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C236 0.1uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C237 0.1uF
+Added Member To Class: ClassName=U_Flash_Sheet Member=Component C238 0.1uF
+Added Room: Name=U_CameraOrDisplay_Sheet
+Added Room: Name=U_Connector_Section
+Added Room: Name=U_DDRC_Section
+Added Room: Name=U_DDRC_Sheet_2
+Added Room: Name=U_DSP_Section
+Added Room: Name=U_eMMC_Sheet
+Added Room: Name=U_Flash_Sheet
+Added Room: Name=U_GND_Sheet
+Added Room: Name=U_HDMI_Sheet
+Added Room: Name=U_Interface_Sheet
+Added Room: Name=U_Internal_Power_Sheet
+Added Room: Name=U_MIPI_Sheet
+Added Room: Name=U_MISCIO_Sheet
+Added Room: Name=U_PCIe_Sheet
+Added Room: Name=U_Power_Sheet_1
+Added Room: Name=U_Power_Sheet_2
+Added Room: Name=U_Power_Sheet_3
+Added Room: Name=U_RAM_Sheet
+Added Room: Name=U_SDIO_SDMMC_Sheet
+Added Room: Name=U_USB_Sheet
+Added Room: Name=U_USB_Sheet_2
+Added Room: Name=U_WiFi_Module_Section
+Added Rule: Name=Schematic Impedance Constraint_3
+Added Rule: Name=Schematic Matched Net Lengths_2
+Added Class: Name=TYPEC0_AUX_Lines
+Removed Member From Class: ClassName=TYPEC0_IO_Lines Member=TYPEC0_AUX

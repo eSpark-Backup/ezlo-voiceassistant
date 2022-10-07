@@ -1,0 +1,9 @@
+Added Class: Name=TYPEC0_TX
+Added Member To Class: ClassName=U_USB_Sheet Member=Component C158 0.1uF
+Added Rule: Name=Schematic Impedance Constraint_3
+Added Rule: Name=Schematic Impedance Constraint_7
+Added Rule: Name=Schematic Impedance Constraint_12
+Added Rule: Name=Schematic Matched Net Lengths_2
+Added Rule: Name=Schematic Matched Net Lengths_7
+Added Rule: Name=Schematic Matched Net Lengths_12
+Added Class: Name=TYPEC0_TX_Lines

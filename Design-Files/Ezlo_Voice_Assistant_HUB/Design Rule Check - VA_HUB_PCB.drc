@@ -1,21 +1,21 @@
 Protel Design System Design Rule Check
 PCB File : E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
 Date     : 10/7/2022
-Time     : 11:26:58 AM
+Time     : 6:56:15 PM
 
-Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_2')),(All)
+Processing Rule : Clearance Constraint (Gap=0.076mm) (WithinRoom('BGA_1')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_3')),(All)
+Processing Rule : Clearance Constraint (Gap=0.076mm) (WithinRoom('BGA_2')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA')),(All)
+Processing Rule : Clearance Constraint (Gap=0.076mm) (WithinRoom('BGA_3')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_1')),(All)
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.076mm) (WithinRoom('BGA')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -27,49 +27,78 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA'))
+Processing Rule : Width Constraint (Min=0.102mm) (Max=1.016mm) (Preferred=0.559mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_3'))
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4mil) (Max=40mil) (Preferred=22mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=25.4mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_2'))
+Processing Rule : Hole To Hole Clearance (Gap=0mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_1'))
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('HDMI_TX0'))
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Processing Rule : Matched Lengths(Tolerance=0.645mm) (InNetClass('USB_A'))
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('HDMI_TX1'))
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('HDMI_TX2'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=25.4mil) (InNetClass('USB_A'))
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('HDMI_TXC'))
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('H1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('TYPEC1'))
+   Violation between Matched Net Lengths: Between Net TYPEC1_N And Net TYPEC1_RX1_P Length:45.368mm is not within 0.508mm tolerance of Length:46.048mm (0.172mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_RX1_P And Net TYPEC1_TX1_P Length:45.23mm is not within 0.508mm tolerance of Length:46.048mm (0.31mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_RX1_P And Net TYPEC1TX1_N Length:11.298mm is not within 0.508mm tolerance of Length:46.048mm (34.242mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_RX1_P And Net TYPEC1TX1_P Length:11.351mm is not within 0.508mm tolerance of Length:46.048mm (34.188mm short) 
+Rule Violations :4
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('TYPEC0'))
+   Violation between Matched Net Lengths: Between Net TYPEC0_AUX_N And Net TYPEC0_D_N Length:13.29mm is not within 0.508mm tolerance of Length:63.856mm (50.058mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_AUX_P And Net TYPEC0_D_N Length:6.685mm is not within 0.508mm tolerance of Length:63.856mm (56.663mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_RX1_P Length:61.727mm is not within 0.508mm tolerance of Length:63.856mm (1.62mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_RX2_N Length:56.57mm is not within 0.508mm tolerance of Length:63.856mm (6.778mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_RX2_P Length:56.721mm is not within 0.508mm tolerance of Length:63.856mm (6.626mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_TX1_N Length:58.617mm is not within 0.508mm tolerance of Length:63.856mm (4.731mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_TX1_P Length:57.943mm is not within 0.508mm tolerance of Length:63.856mm (5.405mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_TX2_N Length:58.114mm is not within 0.508mm tolerance of Length:63.856mm (5.234mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_TX2_P Length:57.388mm is not within 0.508mm tolerance of Length:63.856mm (5.96mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0TX1_N Length:6.284mm is not within 0.508mm tolerance of Length:63.856mm (57.064mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0TX1_P Length:5.364mm is not within 0.508mm tolerance of Length:63.856mm (57.983mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0TX2_N Length:8.636mm is not within 0.508mm tolerance of Length:63.856mm (54.712mm short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0TX2_P Length:7.738mm is not within 0.508mm tolerance of Length:63.856mm (55.61mm short) 
+Rule Violations :13
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('HOST1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 17
 Waived Violations : 0
 Time Elapsed        : 00:00:06
