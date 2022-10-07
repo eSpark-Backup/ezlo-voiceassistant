@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TYPEC0_AUX_N Pin=C168-2
+Removed Pin From Net: NetName=TYPEC0_AUX_N Pin=R87-2
+Change Net Name : Old Net Name=TYPEC0_AUX_N New Net Name=TYPEC0_AUX_M
+Added Pin To Net: NetName=TYPEC0_AUX_N Pin=C168-2
+Added Pin To Net: NetName=TYPEC0_AUX_N Pin=R87-2
+Added Net: Name=TYPEC0_AUX_N

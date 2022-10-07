@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TYPEC0_AUX_M Pin=C168-2
+Removed Pin From Net: NetName=TYPEC0_AUX_M Pin=R87-2
+Added Pin To Net: NetName=TYPEC0_AUX_N Pin=C168-2
+Added Pin To Net: NetName=TYPEC0_AUX_N Pin=R87-2
+Added Net: Name=TYPEC0_AUX_N
+Change Differential Pair Negative Net Name : Old Net Name=TYPEC0_AUX_N New Net Name=TYPEC0_AUX_N
+Added Member To Class: ClassName=TYPEC0 Member=Wire TYPEC0_AUX_N
+Added Room: Name=U_USB_Sheet_2

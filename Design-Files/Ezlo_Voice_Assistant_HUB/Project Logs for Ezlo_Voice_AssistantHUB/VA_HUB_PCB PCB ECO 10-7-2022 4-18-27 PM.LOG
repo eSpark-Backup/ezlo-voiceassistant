@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=TYPEC0 Member=TYPEC0_AUX_P
+Added Pin To Net: NetName=TYPEC0_AUX_M Pin=C168-2
+Added Pin To Net: NetName=TYPEC0_AUX_M Pin=R87-2

@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=TYPEC0_AUX_M New Net Name=TYPEC0_AUX_N
+Added Differential Pair: Name=TYPEC0_AUX
+Added Member To Class: ClassName=TYPEC0 Member=Wire TYPEC0_AUX_N
+Added Member To Class: ClassName=TYPEC0 Member=Wire TYPEC0_AUX_P
+Added Member To Class: ClassName=TYPEC0_IO_Lines Member=TYPEC0_AUX

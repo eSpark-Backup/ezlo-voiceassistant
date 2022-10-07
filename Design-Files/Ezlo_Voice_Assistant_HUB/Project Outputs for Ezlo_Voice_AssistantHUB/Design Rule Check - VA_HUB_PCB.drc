@@ -1,18 +1,18 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\XPENDER\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
-Date     : 10/6/2022
-Time     : 10:56:36 PM
+PCB File : E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
+Date     : 10/7/2022
+Time     : 5:16:14 PM
 
 Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_1')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_2')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_3')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_2')),(All)
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA')),(All)
@@ -27,19 +27,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_1'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA'))
-Rule Violations :0
-
 Processing Rule : Width Constraint (Min=4mil) (Max=40mil) (Preferred=22mil) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_3'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=4mil) (Max=4mil) (Preferred=4mil) (WithinRoom('BGA_2'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -63,13 +51,55 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('HDMI_TX0'))
+Rule Violations :0
+
 Processing Rule : Matched Lengths(Tolerance=25.4mil) (InNetClass('USB_A'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('HDMI_TX1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('HDMI_TX2'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('HDMI_TXC'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('H1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('TYPEC1'))
+   Violation between Matched Net Lengths: Between Net TYPEC1_N And Net TYPEC1_RX1_P Length:1428.067mil is not within 20mil tolerance of Length:1813.268mil (365.201mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_P And Net TYPEC1_RX1_N Length:1454.835mil is not within 20mil tolerance of Length:1770.359mil (295.523mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_P And Net TYPEC1_RX1_P Length:1454.835mil is not within 20mil tolerance of Length:1813.268mil (338.433mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_RX1_P And Net TYPEC1_TX1_N Length:1095.52mil is not within 20mil tolerance of Length:1813.268mil (697.748mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_RX1_P And Net TYPEC1_TX1_P Length:1063.894mil is not within 20mil tolerance of Length:1813.268mil (729.374mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_RX1_P And Net TYPEC1TX1_N Length:444.918mil is not within 20mil tolerance of Length:1813.268mil (1348.351mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC1_RX1_P And Net TYPEC1TX1_P Length:447.023mil is not within 20mil tolerance of Length:1813.268mil (1346.245mil short) 
+Rule Violations :7
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('TYPEC0'))
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_RX1_P Length:2430.391mil is not within 20mil tolerance of Length:2514.368mil (63.977mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_RX2_N Length:2227.339mil is not within 20mil tolerance of Length:2514.368mil (267.029mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_RX2_P Length:2233.309mil is not within 20mil tolerance of Length:2514.368mil (261.059mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_TX1_N Length:2307.991mil is not within 20mil tolerance of Length:2514.368mil (186.377mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_TX1_P Length:2281.464mil is not within 20mil tolerance of Length:2514.368mil (212.904mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_TX2_N Length:2288.197mil is not within 20mil tolerance of Length:2514.368mil (206.171mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0_TX2_P Length:2259.603mil is not within 20mil tolerance of Length:2514.368mil (234.765mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0TX1_N Length:247.518mil is not within 20mil tolerance of Length:2514.368mil (2246.85mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0TX1_P Length:211.31mil is not within 20mil tolerance of Length:2514.368mil (2283.058mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0TX2_N Length:340.235mil is not within 20mil tolerance of Length:2514.368mil (2154.133mil short) 
+   Violation between Matched Net Lengths: Between Net TYPEC0_D_N And Net TYPEC0TX2_P Length:304.889mil is not within 20mil tolerance of Length:2514.368mil (2189.479mil short) 
+Rule Violations :11
+
+Processing Rule : Matched Lengths(Tolerance=20mil) (InNetClass('HOST1'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 18
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:09

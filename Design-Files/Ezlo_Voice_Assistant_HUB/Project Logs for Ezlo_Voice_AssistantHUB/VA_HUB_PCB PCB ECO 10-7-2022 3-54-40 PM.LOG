@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=HOST1 Member=H1_N
+Removed Member From Class: ClassName=HOST1 Member=H1_P
+Change Net Name : Old Net Name=TYPEC0_AUX_M New Net Name=TYPEC0_AUX_N
+Added Class: Name=H1
+Added Differential Pair: Name=TYPEC0_AUX
+Added Member To Class: ClassName=TYPEC0 Member=Wire TYPEC0_AUX_N
+Added Member To Class: ClassName=TYPEC0 Member=Wire TYPEC0_AUX_P
+Added Rule: Name=Schematic Impedance Constraint_8
+Added Rule: Name=Schematic Impedance Constraint_9
+Added Rule: Name=Schematic Impedance Constraint_10
+Added Rule: Name=Schematic Impedance Constraint_11
+Added Rule: Name=Schematic Matched Net Lengths_8
+Added Rule: Name=Schematic Matched Net Lengths_9
+Added Rule: Name=Schematic Matched Net Lengths_10
+Added Rule: Name=Schematic Matched Net Lengths_11
+Added Class: Name=H1_Lines
+Added Class: Name=HDMI_Lines
+Added Class: Name=HOST1_IO_Lines
+Added Class: Name=TYPEC0_IO_Lines
+Added Class: Name=TYPEC1_IO_Lines
