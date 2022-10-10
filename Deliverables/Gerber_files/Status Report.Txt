@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Ezlo_Voice_AssistantHUB.PrjPcb]
+   Generated File[VA_HUB_PCB.GTO]
+   Generated File[VA_HUB_PCB.GTP]
+   Generated File[VA_HUB_PCB.GTS]
+   Generated File[VA_HUB_PCB.GTL]
+   Generated File[VA_HUB_PCB.G1]
+   Generated File[VA_HUB_PCB.GP1]
+   Generated File[VA_HUB_PCB.GP2]
+   Generated File[VA_HUB_PCB.G2]
+   Generated File[VA_HUB_PCB.GBL]
+   Generated File[VA_HUB_PCB.GBS]
+   Generated File[VA_HUB_PCB.GBP]
+   Generated File[VA_HUB_PCB.GBO]
+   Generated File[VA_HUB_PCB.GM2]
+   Generated File[VA_HUB_PCB.GPT]
+   Generated File[VA_HUB_PCB.GPB]
+   Generated File[VA_HUB_PCB.GD1]
+   Generated File[VA_HUB_PCB.GG1]
+   Generated File[VA_HUB_PCB.RUL]
+   Generated File[VA_HUB_PCB.EXTREP]
+   Generated File[VA_HUB_PCB.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 10:07:26 AM On 10/10/2022

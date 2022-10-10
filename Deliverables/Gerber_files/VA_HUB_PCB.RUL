@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance_BGA3|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=Clearance_BGA2|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=Clearance_BGA1|Scope=Board|Minimum=3.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_BGA|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
