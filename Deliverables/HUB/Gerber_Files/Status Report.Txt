@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ezlo_Voice_AssistantHUB.PrjPcb]
+   Generated File[VA_HUB_PCB-RoundHoles.TXT]
+   Generated File[VA_HUB_PCB-SlotHoles.TXT]
+   Generated File[VA_HUB_PCB.LDP]
+   Generated File[VA_HUB_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:15:18 PM On 10/10/2022
