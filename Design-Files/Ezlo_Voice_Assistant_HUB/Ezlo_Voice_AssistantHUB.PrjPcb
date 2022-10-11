@@ -795,106 +795,110 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\Pick Place for VA_HUB_PCB.csv
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\Design Rule Check - VA_HUB_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\Pick Place for VA_HUB_PCB.txt
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\Pick Place for VA_HUB_PCB.csv
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB-RoundHoles.TXT
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\Pick Place for VA_HUB_PCB.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB-SlotHoles.TXT
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.DRR
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.EXTREP
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.G1
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.G2
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.G1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GBL
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.G2
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GBO
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GBP
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GBS
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GD1
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GG1
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GM2
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GP1
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GP2
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GPB
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GPT
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GTL
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GTO
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GTP
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GTS
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.LDP
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.REP
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Ezlo_Voice_AssistantHUB\VA_HUB_PCB.RUL
 DItemRevisionGUID=
 
@@ -1052,42 +1056,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
