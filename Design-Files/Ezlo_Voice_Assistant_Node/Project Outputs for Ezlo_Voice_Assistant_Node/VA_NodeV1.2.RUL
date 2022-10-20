@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_Node\VA_NodeV1.2.PcbDoc
+DRC Rules Export File for PCB: C:\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_Node\VA_NodeV1.2.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
