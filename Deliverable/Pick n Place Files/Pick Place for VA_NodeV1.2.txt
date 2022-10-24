@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_Node\Project Outputs for Ezlo_Voice_Assistant_Node\Pick Place for VA_NodeV1.2.txt
+E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_Node\Project Outputs for Ezlo_Voice_Assistant_Node\Pick Place for VA_NodeV1.2.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       20/10/22
-Time:       15:57
-Revision:   de9d5b310f8191b29629f57d57d8701832b5cd0a
+Date:       24/10/22
+Time:       13:39
+Revision:   b7216fd33bdadaac60987df679e8377cbb78ec8a
 Variant:    No variations
 Units used: mil
 
