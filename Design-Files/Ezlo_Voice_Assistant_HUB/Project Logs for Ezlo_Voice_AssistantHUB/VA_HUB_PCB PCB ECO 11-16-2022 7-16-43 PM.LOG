@@ -1,0 +1,480 @@
+Change Component Footprint: Designator=C188 Old Footprint=Cap0402 New Footprint=Cap0603
+Change Component Footprint: Designator=C196 Old Footprint=Cap0402 New Footprint=Cap0603
+Change Component Footprint: Designator=C200 Old Footprint=Cap0402 New Footprint=Cap0603
+Change Component Footprint: Designator=C208 Old Footprint=Cap0402 New Footprint=Cap0603
+Change Component Footprint: Designator=C216 Old Footprint=Cap0402 New Footprint=Cap0603
+Change Component Footprint: Designator=C220 Old Footprint=Cap0402 New Footprint=Cap0603
+Change Component Footprint: Designator=C203 Old Footprint=Cap0603 New Footprint=Cap0402
+Change Component Footprint: Designator=C210 Old Footprint=Cap0603 New Footprint=Cap0402
+Change Component Footprint: Designator=C229 Old Footprint=Cap0603 New Footprint=Cap0402
+Change Component Footprint: Designator=U15 Old Footprint=FBGA-178 SDRAM New Footprint=FBGA-200
+Change Component Footprint: Designator=R106 Old Footprint=RES0603 New Footprint=Res0402
+Change Component Footprint: Designator=R107 Old Footprint=RES0603 New Footprint=Res0402
+Change Component Footprint: Designator=R109 Old Footprint=RES0603 New Footprint=Res0402
+Change Component Footprint: Designator=R110 Old Footprint=RES0603 New Footprint=Res0402
+Added Component: Designator=C260(Cap0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155879.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155879.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155878.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155878.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155880.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155880.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11464/upy-gphc-x5r-4v-to-50v-12-11464869.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11464/upy-gphc-x5r-4v-to-50v-12-11464869.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Flat"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0402KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 10=0.02300, 50=0.02300, 100=0.01100, 1000=0.00600, 10000=0.00400 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "936792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-CC402KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=C261(Cap0402)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155879.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155879.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155878.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155878.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155880.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/155/mlccorderingcode-155880.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11464/upy-gphc-x5r-4v-to-50v-12-11464869.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11464/upy-gphc-x5r-4v-to-50v-12-11464869.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Flat"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0402KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 10=0.02300, 50=0.02300, 100=0.01100, 1000=0.00600, 10000=0.00400 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "936792"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-CC402KRX5R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=P41(TEST POINT)
+Added Component: Designator=P42(TEST POINT)
+Added Component: Designator=P43(TEST POINT)
+Added Component: Designator=P44(TEST POINT)
+Added Component: Designator=R46(Res0402)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7849/1018594-7849915.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7849/1018594-7849915.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7849/1018594-7849916.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7849/1018594-7849916.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519157.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519157.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519158.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519158.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519156.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/2519/pyu-r-int-thick-7-2519156.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/12669/pyu-rc0402-51-rohs-l-6-r-12669689.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/12669/pyu-rc0402-51-rohs-l-6-r-12669689.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/17419/pyu-rc0402-51-rohs-l-6-r-17419482.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/17419/pyu-rc0402-51-rohs-l-6-r-17419482.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.016inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07240RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 10=0.01200, 50=0.01200, 100=0.00500, 1000=0.00300, 10000=0.00100 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "240R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1903202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0402FR-07240RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=R126(Res0402)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7660/38568-7660787.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7660/38568-7660787.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7849/1686128-7849814.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7849/1686128-7849814.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/7983/1018594-7983486.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/7983/1018594-7983486.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/22747/1018594-22747512.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/22747/1018594-22747512.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/12667/pyu-rc0402-51-rohs-l-6-r-12667067.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/12667/pyu-rc0402-51-rohs-l-6-r-12667067.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/7849/1784430-7849813.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/7849/1784430-7849813.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/7849/1784430-7849815.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/7849/1784430-7849815.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.32mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 10=0.01400, 50=0.01400, 100=0.00500, 1000=0.00300, 10000=0.00200 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "18648329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=U18(FBGA-200)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/DDR-SDRAM_Samsung-K4F6E3S4HM-MGCJ_C2842431.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K4F6E3S4HM-MGCJ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_DDR Pin=C260-1
+Added Pin To Net: NetName=GND Pin=C260-2
+Added Pin To Net: NetName=VCC_DDR Pin=C261-1
+Added Pin To Net: NetName=GND Pin=C261-2
+Added Pin To Net: NetName=NetP41_1 Pin=P41-1
+Added Pin To Net: NetName=NetP42_1 Pin=P42-1
+Added Pin To Net: NetName=DDR0_ODT0 Pin=P43-1
+Added Pin To Net: NetName=DDR1_ODT0 Pin=P44-1
+Added Pin To Net: NetName=VCC_DDRC Pin=R46-1
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=VCC_DDRC Pin=R126-1
+Added Pin To Net: NetName=DDR1_ODT0 Pin=R126-2
+Add Pin To Net: Unknown Pin: Pin U10-AG29
+Added Pin To Net: NetName=DDR0_D16 Pin=U15-AA2
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-AA3
+Added Pin To Net: NetName=DDR0_D23 Pin=U15-AA4
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-AA5
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-AA8
+Added Pin To Net: NetName=DDR0_D31 Pin=U15-AA9
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-AA10
+Added Pin To Net: NetName=DDR0_D24 Pin=U15-AA11
+Added Pin To Net: NetName=GND Pin=U15-AB3
+Added Pin To Net: NetName=VCC_DDR Pin=U15-AB4
+Added Pin To Net: NetName=GND Pin=U15-AB5
+Added Pin To Net: NetName=GND Pin=U15-AB8
+Added Pin To Net: NetName=VCC_DDR Pin=U15-AB9
+Added Pin To Net: NetName=GND Pin=U15-AB10
+Added Pin To Net: NetName=GND Pin=U15-C1
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-D1
+Added Pin To Net: NetName=GND Pin=U15-E1
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U15-F1
+Added Pin To Net: NetName=GND Pin=U15-G1
+Added Pin To Net: NetName=VCC_DDR Pin=U15-H1
+Added Pin To Net: NetName=GND Pin=U15-J1
+Added Pin To Net: NetName=VCC_DDR Pin=U15-K1
+Added Pin To Net: NetName=VCC_DDR Pin=U15-N1
+Added Pin To Net: NetName=GND Pin=U15-P1
+Added Pin To Net: NetName=VCC_DDR Pin=U15-R1
+Added Pin To Net: NetName=GND Pin=U15-V1
+Added Pin To Net: NetName=DDR0_D18 Pin=U15-V2
+Added Pin To Net: NetName=DDR0_DQS2M Pin=U15-V3
+Added Pin To Net: NetName=DDR0_D21 Pin=U15-V4
+Added Pin To Net: NetName=GND Pin=U15-V5
+Added Pin To Net: NetName=GND Pin=U15-V8
+Added Pin To Net: NetName=DDR0_D29 Pin=U15-V9
+Added Pin To Net: NetName=DDR0_DQS3M Pin=U15-V10
+Added Pin To Net: NetName=DDR0_D26 Pin=U15-V11
+Added Pin To Net: NetName=GND Pin=U15-V12
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-W1
+Added Pin To Net: NetName=GND Pin=U15-W2
+Added Pin To Net: NetName=DDR0_DQS2P Pin=U15-W3
+Added Pin To Net: NetName=GND Pin=U15-W4
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-W5
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-W8
+Added Pin To Net: NetName=GND Pin=U15-W9
+Added Pin To Net: NetName=DDR0_DQS3P Pin=U15-W10
+Added Pin To Net: NetName=GND Pin=U15-W11
+Added Pin To Net: NetName=VCC_DDRC Pin=U15-W12
+Added Pin To Net: NetName=GND Pin=U15-Y1
+Added Pin To Net: NetName=DDR0_D17 Pin=U15-Y2
+Added Pin To Net: NetName=DDR0_DM2 Pin=U15-Y3
+Added Pin To Net: NetName=DDR0_D22 Pin=U15-Y4
+Added Pin To Net: NetName=GND Pin=U15-Y5
+Added Pin To Net: NetName=GND Pin=U15-Y8
+Added Pin To Net: NetName=DDR0_D30 Pin=U15-Y9
+Added Pin To Net: NetName=DDR0_DM3 Pin=U15-Y10
+Added Pin To Net: NetName=DDR0_D25 Pin=U15-Y11
+Added Pin To Net: NetName=GND Pin=U15-Y12
+Added Pin To Net: NetName=GND Pin=U18-A3
+Added Pin To Net: NetName=VCC_DDR Pin=U18-A4
+Added Pin To Net: NetName=NetR107_2 Pin=U18-A5
+Added Pin To Net: NetName=NetR109_1 Pin=U18-A8
+Added Pin To Net: NetName=VCC_DDR Pin=U18-A9
+Added Pin To Net: NetName=GND Pin=U18-A10
+Added Pin To Net: NetName=DDR1_D16 Pin=U18-AA2
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-AA3
+Added Pin To Net: NetName=DDR1_D23 Pin=U18-AA4
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-AA5
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-AA8
+Added Pin To Net: NetName=DDR1_D31 Pin=U18-AA9
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-AA10
+Added Pin To Net: NetName=DDR1_D24 Pin=U18-AA11
+Added Pin To Net: NetName=GND Pin=U18-AB3
+Added Pin To Net: NetName=VCC_DDR Pin=U18-AB4
+Added Pin To Net: NetName=GND Pin=U18-AB5
+Added Pin To Net: NetName=GND Pin=U18-AB8
+Added Pin To Net: NetName=VCC_DDR Pin=U18-AB9
+Added Pin To Net: NetName=GND Pin=U18-AB10
+Added Pin To Net: NetName=DDR1_D0 Pin=U18-B2
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-B3
+Added Pin To Net: NetName=DDR1_D7 Pin=U18-B4
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-B5
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-B8
+Added Pin To Net: NetName=DDR1_D15 Pin=U18-B9
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-B10
+Added Pin To Net: NetName=DDR1_D8 Pin=U18-B11
+Added Pin To Net: NetName=GND Pin=U18-C1
+Added Pin To Net: NetName=DDR1_D1 Pin=U18-C2
+Added Pin To Net: NetName=DDR1_DM0 Pin=U18-C3
+Added Pin To Net: NetName=DDR1_D6 Pin=U18-C4
+Added Pin To Net: NetName=GND Pin=U18-C5
+Added Pin To Net: NetName=GND Pin=U18-C8
+Added Pin To Net: NetName=DDR1_D14 Pin=U18-C9
+Added Pin To Net: NetName=DDR1_DM1 Pin=U18-C10
+Added Pin To Net: NetName=DDR1_D9 Pin=U18-C11
+Added Pin To Net: NetName=GND Pin=U18-C12
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-D1
+Added Pin To Net: NetName=GND Pin=U18-D2
+Added Pin To Net: NetName=DDR1_DQS0P Pin=U18-D3
+Added Pin To Net: NetName=GND Pin=U18-D4
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-D5
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-D8
+Added Pin To Net: NetName=GND Pin=U18-D9
+Added Pin To Net: NetName=DDR1_DQS1P Pin=U18-D10
+Added Pin To Net: NetName=GND Pin=U18-D11
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-D12
+Added Pin To Net: NetName=GND Pin=U18-E1
+Added Pin To Net: NetName=DDR1_D2 Pin=U18-E2
+Added Pin To Net: NetName=DDR1_DQS0M Pin=U18-E3
+Added Pin To Net: NetName=DDR1_D5 Pin=U18-E4
+Added Pin To Net: NetName=GND Pin=U18-E5
+Added Pin To Net: NetName=GND Pin=U18-E8
+Added Pin To Net: NetName=DDR1_D13 Pin=U18-E9
+Added Pin To Net: NetName=DDR1_DQS1M Pin=U18-E10
+Added Pin To Net: NetName=DDR1_D10 Pin=U18-E11
+Added Pin To Net: NetName=GND Pin=U18-E12
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U18-F1
+Added Pin To Net: NetName=DDR1_D3 Pin=U18-F2
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-F3
+Added Pin To Net: NetName=DDR1_D4 Pin=U18-F4
+Added Pin To Net: NetName=VCC_DDR Pin=U18-F5
+Added Pin To Net: NetName=VCC_DDR Pin=U18-F8
+Added Pin To Net: NetName=DDR1_D12 Pin=U18-F9
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-F10
+Added Pin To Net: NetName=DDR1_D11 Pin=U18-F11
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U18-F12
+Added Pin To Net: NetName=GND Pin=U18-G1
+Added Pin To Net: NetName=DDR1_ODT0 Pin=U18-G2
+Added Pin To Net: NetName=GND Pin=U18-G3
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U18-G4
+Added Pin To Net: NetName=GND Pin=U18-G5
+Added Pin To Net: NetName=GND Pin=U18-G8
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U18-G9
+Added Pin To Net: NetName=GND Pin=U18-G10
+Added Pin To Net: NetName=GND Pin=U18-G12
+Added Pin To Net: NetName=VCC_DDR Pin=U18-H1
+Added Pin To Net: NetName=DDR1.DDR1_A0 Pin=U18-H2
+Added Pin To Net: NetName=DDR1_CS1N Pin=U18-H3
+Added Pin To Net: NetName=DDR1_CS0N Pin=U18-H4
+Added Pin To Net: NetName=VCC_DDR Pin=U18-H5
+Added Pin To Net: NetName=VCC_DDR Pin=U18-H8
+Added Pin To Net: NetName=DDR1.DDR1_A2 Pin=U18-H9
+Added Pin To Net: NetName=DDR1.DDR1_A3 Pin=U18-H10
+Added Pin To Net: NetName=DDR1.DDR1_A4 Pin=U18-H11
+Added Pin To Net: NetName=VCC_DDR Pin=U18-H12
+Added Pin To Net: NetName=GND Pin=U18-J1
+Added Pin To Net: NetName=DDR1.DDR1_A1 Pin=U18-J2
+Added Pin To Net: NetName=GND Pin=U18-J3
+Added Pin To Net: NetName=DDR1_CKE0 Pin=U18-J4
+Added Pin To Net: NetName=DDR1_CKE1 Pin=U18-J5
+Added Pin To Net: NetName=DDR1_CLK0P Pin=U18-J8
+Added Pin To Net: NetName=DDR1_CLK0N Pin=U18-J9
+Added Pin To Net: NetName=GND Pin=U18-J10
+Added Pin To Net: NetName=DDR1.DDR1_A5 Pin=U18-J11
+Added Pin To Net: NetName=GND Pin=U18-J12
+Added Pin To Net: NetName=VCC_DDR Pin=U18-K1
+Added Pin To Net: NetName=GND Pin=U18-K2
+Added Pin To Net: NetName=VCC_DDR Pin=U18-K3
+Added Pin To Net: NetName=GND Pin=U18-K4
+Added Pin To Net: NetName=GND Pin=U18-K9
+Added Pin To Net: NetName=VCC_DDR Pin=U18-K10
+Added Pin To Net: NetName=GND Pin=U18-K11
+Added Pin To Net: NetName=VCC_DDR Pin=U18-K12
+Added Pin To Net: NetName=VCC_DDR Pin=U18-N1
+Added Pin To Net: NetName=GND Pin=U18-N2
+Added Pin To Net: NetName=VCC_DDR Pin=U18-N3
+Added Pin To Net: NetName=GND Pin=U18-N4
+Added Pin To Net: NetName=GND Pin=U18-N9
+Added Pin To Net: NetName=VCC_DDR Pin=U18-N10
+Added Pin To Net: NetName=GND Pin=U18-N11
+Added Pin To Net: NetName=VCC_DDR Pin=U18-N12
+Added Pin To Net: NetName=GND Pin=U18-P1
+Added Pin To Net: NetName=DDR1.DDR1_A1 Pin=U18-P2
+Added Pin To Net: NetName=GND Pin=U18-P3
+Added Pin To Net: NetName=DDR1_CKE0 Pin=U18-P4
+Added Pin To Net: NetName=DDR1_CKE1 Pin=U18-P5
+Added Pin To Net: NetName=DDR1_CLK1P Pin=U18-P8
+Added Pin To Net: NetName=DDR1_CLK1N Pin=U18-P9
+Added Pin To Net: NetName=GND Pin=U18-P10
+Added Pin To Net: NetName=DDR1.DDR1_A5 Pin=U18-P11
+Added Pin To Net: NetName=GND Pin=U18-P12
+Added Pin To Net: NetName=VCC_DDR Pin=U18-R1
+Added Pin To Net: NetName=DDR1.DDR1_A0 Pin=U18-R2
+Added Pin To Net: NetName=DDR1_CS3N Pin=U18-R3
+Added Pin To Net: NetName=DDR1_CS2N Pin=U18-R4
+Added Pin To Net: NetName=VCC_DDR Pin=U18-R5
+Added Pin To Net: NetName=VCC_DDR Pin=U18-R8
+Added Pin To Net: NetName=DDR1.DDR1_A2 Pin=U18-R9
+Added Pin To Net: NetName=DDR1.DDR1_A3 Pin=U18-R10
+Added Pin To Net: NetName=DDR1.DDR1_A4 Pin=U18-R11
+Added Pin To Net: NetName=VCC_DDR Pin=U18-R12
+Added Pin To Net: NetName=GND Pin=U18-T1
+Added Pin To Net: NetName=DDR1_ODT0 Pin=U18-T2
+Added Pin To Net: NetName=GND Pin=U18-T3
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U18-T4
+Added Pin To Net: NetName=GND Pin=U18-T5
+Added Pin To Net: NetName=GND Pin=U18-T8
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U18-T9
+Added Pin To Net: NetName=GND Pin=U18-T10
+Added Pin To Net: NetName=DDR1_RST Pin=U18-T11
+Added Pin To Net: NetName=GND Pin=U18-T12
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U18-U1
+Added Pin To Net: NetName=DDR1_D19 Pin=U18-U2
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-U3
+Added Pin To Net: NetName=DDR1_D20 Pin=U18-U4
+Added Pin To Net: NetName=VCC_DDR Pin=U18-U5
+Added Pin To Net: NetName=VCC_DDR Pin=U18-U8
+Added Pin To Net: NetName=DDR1_D28 Pin=U18-U9
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-U10
+Added Pin To Net: NetName=DDR1_D27 Pin=U18-U11
+Added Pin To Net: NetName=VCC1V8_DDR Pin=U18-U12
+Added Pin To Net: NetName=GND Pin=U18-V1
+Added Pin To Net: NetName=DDR1_D18 Pin=U18-V2
+Added Pin To Net: NetName=DDR1_DQS2M Pin=U18-V3
+Added Pin To Net: NetName=DDR1_D21 Pin=U18-V4
+Added Pin To Net: NetName=GND Pin=U18-V5
+Added Pin To Net: NetName=GND Pin=U18-V8
+Added Pin To Net: NetName=DDR1_D29 Pin=U18-V9
+Added Pin To Net: NetName=DDR1_DQS3M Pin=U18-V10
+Added Pin To Net: NetName=DDR1_D26 Pin=U18-V11
+Added Pin To Net: NetName=GND Pin=U18-V12
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-W1
+Added Pin To Net: NetName=GND Pin=U18-W2
+Added Pin To Net: NetName=DDR1_DQS2P Pin=U18-W3
+Added Pin To Net: NetName=GND Pin=U18-W4
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-W5
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-W8
+Added Pin To Net: NetName=GND Pin=U18-W9
+Added Pin To Net: NetName=DDR1_DQS3P Pin=U18-W10
+Added Pin To Net: NetName=GND Pin=U18-W11
+Added Pin To Net: NetName=VCC_DDRC Pin=U18-W12
+Added Pin To Net: NetName=GND Pin=U18-Y1
+Added Pin To Net: NetName=DDR1_D17 Pin=U18-Y2
+Added Pin To Net: NetName=DDR1_DM2 Pin=U18-Y3
+Added Pin To Net: NetName=DDR1_D22 Pin=U18-Y4
+Added Pin To Net: NetName=GND Pin=U18-Y5
+Added Pin To Net: NetName=GND Pin=U18-Y8
+Added Pin To Net: NetName=DDR1_D30 Pin=U18-Y9
+Added Pin To Net: NetName=DDR1_DM3 Pin=U18-Y10
+Added Pin To Net: NetName=DDR1_D25 Pin=U18-Y11
+Added Pin To Net: NetName=GND Pin=U18-Y12
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C260 100nF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C261 100nF
+Added Member To Class: ClassName=U_DDRC_Sheet_2 Member=Component P41 Test Point
+Added Member To Class: ClassName=U_DDRC_Sheet_2 Member=Component P42 Test Point
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component P43 Test Point
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component P44 Test Point
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component R46 240R
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component R126 10K
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component U18 K4F6E3S4HM-MGCJ
