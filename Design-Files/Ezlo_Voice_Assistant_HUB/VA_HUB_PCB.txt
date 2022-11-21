@@ -1,53 +1,54 @@
 Board Information Report
 Filename     : C:\Users\XPENDER\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
-Date         : 10/8/2022
-Time         : 4:55:49 PM
+Date         : 11/21/2022
+Time         : 11:55:45 PM
 Time Elapsed : 00:00:01
 
 General
     Board Size, 4408milsx3619mils
-    Components on board, 550
+    Components on board, 569
 count : 2
 
 Routing Information
-    Routing completion, 100.00%
-    Connections, 1814
-    Connections routed, 1814
-    Connections remaining, 0
+    Routing completion, 91.53%
+    Connections, 2067
+    Connections routed, 1892
+    Connections remaining, 175
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 4, 1954, 0, 3401, 0, 91, 0, 0
-    Routing 1, 4, 0, 0, 787, 0, 0, 0, 0
-    Power Plane, 0, 0, 0, 113, 0, 0, 14, 0
+    Top Layer, 2, 2169, 0, 2634, 0, 82, 0, 0
+    Routing 1, 4, 0, 0, 751, 0, 0, 0, 0
+    Power Plane, 0, 0, 0, 113, 0, 0, 13, 0
     GND Plane, 0, 0, 0, 8, 0, 0, 1, 0
-    Routing 2, 1, 0, 0, 723, 0, 0, 0, 0
-    Bottom Layer, 20, 635, 0, 2078, 0, 136, 0, 0
-    Dimension, 0, 0, 0, 16, 2, 0, 1, 483
+    Routing 2, 1, 0, 0, 671, 0, 0, 0, 0
+    Bottom Layer, 20, 673, 0, 1857, 0, 129, 0, 0
+    Dimension, 0, 0, 0, 16, 2, 0, 1, 501
     Board Outline, 0, 0, 0, 8, 0, 0, 0, 0
+    Fabrication, 0, 0, 0, 552, 60, 0, 0, 0
     Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 6
-    Multi-Layer, 0, 65, 1174, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 69, 1159, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 37, 0, 0, 4656, 668, 24, 0, 0
+    Top Overlay, 42, 0, 0, 4541, 652, 25, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 31, 0, 0, 4608, 680, 37, 0, 0
+    Bottom Overlay, 31, 0, 0, 4607, 689, 37, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 4, 0
-    Drill Drawing, 0, 0, 0, 0, 0, 1, 0, 0
-count : 19
+    Drill Drawing, 3, 0, 0, 186, 207, 1, 0, 0
+count : 20
 
 Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 3.52, 2270.929, 22%
-    Routing 1, 1.709, 1102.659, 11%
-    Power Plane, 12.422, 8014.289, 79%
-    GND Plane, 13.811, 8910.195, 87%
-    Routing 2, 1.689, 1089.357, 11%
-    Bottom Layer, 3, 1935.538, 19%
+    Top Layer, 3.038, 1959.907, 19%
+    Routing 1, 1.636, 1055.704, 10%
+    Power Plane, 12.512, 8072.299, 79%
+    GND Plane, 13.932, 8988.596, 88%
+    Routing 2, 1.613, 1040.817, 10%
+    Bottom Layer, 2.751, 1774.811, 17%
 count : 6
 
 Non-Plated Hole Size, Pads, Vias
@@ -62,8 +63,18 @@ Plated Hole Size, Pads, Vias
     35.433mils, 0, 0
     36.221mils, 0, 0
     39.37mils, 0, 0
+    43.307mils, 0, 0
     51.181mils, 0, 0
     55.118mils, 0, 0
     90.551mils, 0, 0
     122.047mils, 0, 0
-count : 10
+count : 11
+
+Plated Slot Size / Length, Pads
+    17.716mil / 57.087mil, 0
+    17.716mil / 64.961mil, 0
+    21.654mil / 59.055mil, 0
+    21.654mil / 86.614mil, 0
+    21.654mil / 129.921mil, 0
+    23.622mil / 98.425mil, 0
+count : 6
