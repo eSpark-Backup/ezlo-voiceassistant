@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetP41_1 Pin=U10-L4
+Removed Member From Class: ClassName=U_DDRC_Sheet_2 Member=P42
+Added Component: Designator=P26(TEST POINT)
+Added Pin To Net: NetName=NetP41_1 Pin=U10-L5
+Added Pin To Net: NetName=NetP26_1 Pin=P26-1
+Added Pin To Net: NetName=NetP26_1 Pin=U10-L4
+Added Net: Name=NetP26_1
+Added Member To Class: ClassName=U_DDRC_Sheet_2 Member=Component P26 TEST POINT

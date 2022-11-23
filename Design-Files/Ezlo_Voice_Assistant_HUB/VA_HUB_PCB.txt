@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\LiberDB\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
-Date         : 11/22/2022
-Time         : 9:02:59 PM
+Date         : 11/23/2022
+Time         : 9:43:04 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,29 +10,29 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 92.79%
+    Routing completion, 93.08%
     Connections, 2067
-    Connections routed, 1918
-    Connections remaining, 149
+    Connections routed, 1924
+    Connections remaining, 143
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 2, 2169, 0, 2792, 0, 82, 0, 0
-    Routing 1, 4, 0, 0, 766, 0, 0, 0, 0
+    Top Layer, 2, 2173, 0, 2844, 0, 82, 0, 0
+    Routing 1, 4, 0, 0, 820, 0, 0, 0, 0
     Power Plane, 0, 0, 0, 119, 0, 0, 15, 0
     GND Plane, 0, 0, 0, 8, 0, 0, 1, 0
-    Routing 2, 1, 0, 0, 665, 0, 0, 0, 0
-    Bottom Layer, 20, 673, 0, 1909, 0, 129, 0, 0
+    Routing 2, 1, 0, 0, 725, 0, 0, 0, 0
+    Bottom Layer, 20, 673, 0, 1926, 0, 129, 0, 0
     Dimension, 0, 0, 0, 16, 2, 0, 1, 501
     Board Outline, 0, 0, 0, 8, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
     Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 6
-    Multi-Layer, 0, 69, 1290, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 65, 1292, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 42, 0, 0, 4541, 664, 25, 0, 0
+    Top Overlay, 38, 0, 0, 4581, 675, 25, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 31, 0, 0, 4607, 689, 37, 0, 0
+    Bottom Overlay, 31, 0, 0, 4609, 691, 37, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 0, 0, 0, 4, 0

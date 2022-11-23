@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DDR0_ODT0 Pin=P43-1
+Removed Pin From Net: NetName=DDR1_ODT0 Pin=P44-1
+Removed Member From Class: ClassName=U_RAM_Sheet Member=P43
+Removed Member From Class: ClassName=U_RAM_Sheet Member=P44
+Added Component: Designator=P7(TEST POINT)
+Added Component: Designator=P22(TEST POINT)
+Added Pin To Net: NetName=DDR0_ODT0 Pin=P7-1
+Added Pin To Net: NetName=DDR1_ODT0 Pin=P22-1
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component P7 TEST POINT
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component P22 TEST POINT
+Added Member To Class: ClassName=U_eMMC_Sheet Member=Component P24 TEST POINT
+Added Member To Class: ClassName=U_eMMC_Sheet Member=Component P25 TEST POINT

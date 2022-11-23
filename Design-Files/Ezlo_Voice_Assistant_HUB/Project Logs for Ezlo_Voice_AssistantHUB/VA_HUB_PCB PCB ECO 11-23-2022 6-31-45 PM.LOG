@@ -1,0 +1,3 @@
+Added Component: Designator=P41(TEST POINT)
+Added Pin To Net: NetName=NetP41_1 Pin=P41-1
+Added Member To Class: ClassName=U_DDRC_Sheet_2 Member=Component P41 TEST POINT
