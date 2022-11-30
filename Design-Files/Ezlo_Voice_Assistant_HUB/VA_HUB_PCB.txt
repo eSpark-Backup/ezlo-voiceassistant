@@ -1,8 +1,8 @@
 Board Information Report
 Filename     : C:\Users\XPENDER\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
-Date         : 11/29/2022
-Time         : 11:27:44 PM
-Time Elapsed : 00:00:02
+Date         : 11/30/2022
+Time         : 5:20:19 PM
+Time Elapsed : 00:00:01
 
 General
     Board Size, 4408milsx3619mils
@@ -10,24 +10,24 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 93.76%
+    Routing completion, 93.90%
     Connections, 2067
-    Connections routed, 1938
-    Connections remaining, 129
+    Connections routed, 1941
+    Connections remaining, 126
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 2, 2173, 0, 3035, 0, 82, 0, 0
-    Routing 1, 4, 0, 0, 934, 0, 0, 0, 0
+    Top Layer, 2, 2173, 0, 3049, 0, 82, 0, 0
+    Routing 1, 4, 0, 0, 961, 0, 0, 0, 0
     Power Plane, 0, 0, 0, 119, 0, 0, 15, 0
     GND Plane, 0, 0, 0, 8, 0, 0, 1, 0
-    Routing 2, 1, 0, 0, 868, 0, 0, 0, 0
-    Bottom Layer, 20, 673, 0, 2002, 0, 130, 0, 0
+    Routing 2, 1, 0, 0, 908, 0, 0, 0, 0
+    Bottom Layer, 20, 673, 0, 2007, 0, 130, 0, 0
     Dimension, 0, 0, 0, 16, 2, 0, 1, 501
     Board Outline, 0, 0, 0, 8, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
     Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 6
-    Multi-Layer, 0, 65, 1288, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 65, 1301, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 38, 0, 0, 4581, 675, 25, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
@@ -43,12 +43,12 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 3.103, 2001.769, 20%
-    Routing 1, 1.735, 1119.227, 11%
-    Power Plane, 12.377, 7985.01, 78%
-    GND Plane, 13.784, 8893.057, 87%
-    Routing 2, 1.775, 1144.932, 11%
-    Bottom Layer, 2.843, 1834.386, 18%
+    Top Layer, 3.11, 2006.346, 20%
+    Routing 1, 1.753, 1130.657, 11%
+    Power Plane, 12.355, 7970.674, 78%
+    GND Plane, 13.774, 8886.705, 87%
+    Routing 2, 1.829, 1180.047, 12%
+    Bottom Layer, 2.842, 1833.356, 18%
 count : 6
 
 Non-Plated Hole Size, Pads, Vias
