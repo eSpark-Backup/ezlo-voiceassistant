@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\XPENDER\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
 Date         : 11/30/2022
-Time         : 5:49:41 PM
+Time         : 10:15:53 PM
 Time Elapsed : 00:00:01
 
 General
@@ -17,17 +17,17 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 2, 2171, 0, 3067, 0, 82, 0, 0
+    Top Layer, 2, 2171, 0, 3068, 0, 82, 0, 0
     Routing 1, 4, 0, 0, 969, 0, 0, 0, 0
     Power Plane, 0, 0, 0, 119, 0, 0, 15, 0
     GND Plane, 0, 0, 0, 8, 0, 0, 1, 0
-    Routing 2, 1, 0, 0, 912, 0, 0, 0, 0
-    Bottom Layer, 20, 675, 0, 2026, 0, 130, 0, 0
+    Routing 2, 1, 0, 0, 910, 0, 0, 0, 0
+    Bottom Layer, 20, 675, 0, 2023, 0, 130, 0, 0
     Dimension, 0, 0, 0, 16, 2, 0, 1, 501
     Board Outline, 0, 0, 0, 8, 0, 0, 0, 0
     Fabrication, 0, 0, 0, 0, 0, 0, 0, 0
     Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 6
-    Multi-Layer, 0, 65, 1306, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 65, 1309, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 38, 0, 0, 4575, 673, 25, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
@@ -43,12 +43,12 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 3.113, 2008.435, 20%
-    Routing 1, 1.758, 1134.178, 11%
-    Power Plane, 12.35, 7967.996, 78%
-    GND Plane, 13.769, 8882.971, 87%
-    Routing 2, 1.835, 1183.561, 12%
-    Bottom Layer, 2.851, 1839.148, 18%
+    Top Layer, 3.113, 2008.17, 20%
+    Routing 1, 1.755, 1132.26, 11%
+    Power Plane, 12.346, 7965.428, 78%
+    GND Plane, 13.763, 8879.309, 87%
+    Routing 2, 1.848, 1192.452, 12%
+    Bottom Layer, 2.853, 1840.74, 18%
 count : 6
 
 Non-Plated Hole Size, Pads, Vias
