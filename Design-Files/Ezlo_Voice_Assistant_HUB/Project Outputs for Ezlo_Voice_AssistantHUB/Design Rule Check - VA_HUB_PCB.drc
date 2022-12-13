@@ -1,13 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\LiberDB\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
-Date     : 10/11/2022
-Time     : 7:23:53 PM
+Date     : 12/13/2022
+Time     : 8:53:23 PM
 
 Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_3')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (4.6mil < 5mil) Between Track (1707mil,532mil)(1854mil,679mil) on Routing 1 And Via (1741mil,583mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (4.272mil < 5mil) Between Track (981.178mil,1330.822mil)(1239.822mil,1330.822mil) on Top Layer And Via (1170mil,1347mil) from Top Layer to Bottom Layer 
+Rule Violations :2
 
 Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_2')),(All)
 Rule Violations :0
@@ -22,7 +24,126 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net VCC_DDRC Between Pad C193-1(916.5mil,427mil) on Bottom Layer [Unplated] And Via (933.724mil,439.178mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_DDRC Between Via (498.685mil,377.421mil) from Top Layer to Bottom Layer And Pad C195-1(640.5mil,344mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (856.953mil,530.675mil) from Top Layer to Bottom Layer And Pad C196-2(891mil,568mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (1035.822mil,-58.083mil) from Top Layer to Bottom Layer And Pad C26-1(1108.822mil,-57.178mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VCC_DDR Between Via (1941.342mil,1463.578mil) from Top Layer to Bottom Layer And Pad R45-1(1988.113mil,1476.374mil) on Bottom Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net DDR1_D12 Between Track (610.689mil,1146.689mil)(1508mil,1146.689mil) on Routing 1 And Pad U10-A12(1928.546mil,1246.058mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_D13 Between Track (518.366mil,1176.689mil)(1508mil,1176.689mil) on Routing 1 And Pad U10-A13(1902.957mil,1246.058mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_CS1N Between Track (643mil,655mil)(1213.589mil,655mil) on Routing 4 And Pad U10-A2(2184.452mil,1246.058mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_CKE0 Between Track (761.137mil,794.5mil)(1123.5mil,794.5mil) on Bottom Layer And Pad U10-A5(2107.68mil,1246.058mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CS1N Between Track (670mil,318mil)(1135mil,318mil) on Routing 4 And Pad U10-B1(2210.043mil,1271.648mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_CS3N Between Track (807mil,665mil)(1224.999mil,665mil) on Routing 4 And Pad U10-B3(2158.863mil,1271.648mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CS3N Between Track (1243mil,253mil)(1243mil,287mil) on Routing 4 And Pad U10-C2(2184.452mil,1297.24mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_DQS1M Between Via (524.275mil,980.236mil) from Top Layer to Bottom Layer And Pad U10-D14(1877.367mil,1322.83mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CKE0 Between Track (1334mil,177mil)(1334mil,360mil) on Routing 4 And Pad U10-E1(2210.043mil,1348.42mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_CKE1 Between Track (753.243mil,847mil)(1171.063mil,847mil) on Routing 4 And Pad U10-E6(2082.09mil,1348.42mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_CLK1N Between Track (787mil,888mil)(1198mil,888mil) on Routing 1 And Pad U10-E8(2030.909mil,1348.42mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_CLK1P Between Track (805.335mil,866.5mil)(1293.5mil,866.5mil) on Top Layer And Pad U10-E9(2005.319mil,1348.42mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0.DDR0_A1 Between Pad U10-F1(2210.043mil,1374.012mil) on Top Layer And Track (2212mil,796mil)(2212mil,1076mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_CS2N Between Track (781.988mil,792mil)(1072mil,792mil) on Routing 4 And Pad U10-F11(1954.139mil,1374.012mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_CS0N Between Track (726.434mil,856mil)(1122mil,856mil) on Top Layer And Pad U10-F12(1928.546mil,1374.012mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0.DDR0_A0 Between Track (1323mil,181.556mil)(1323mil,332mil) on Routing 4 And Pad U10-F2(2184.452mil,1374.012mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CKE1 Between Track (1401.171mil,293mil)(1464mil,355.829mil) on Routing 1 And Pad U10-F5(2107.68mil,1374.012mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0.DDR0_A2 Between Pad U10-G1(2210.043mil,1399.602mil) on Top Layer And Track (2238.425mil,1090.425mil)(2252mil,1076.849mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0.DDR0_A3 Between Track (786.266mil,470.158mil)(1090.485mil,470.158mil) on Routing 4 And Pad U10-G2(2184.452mil,1399.602mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0.DDR0_A5 Between Track (689.849mil,578mil)(1162.361mil,578mil) on Routing 1 And Pad U10-H1(2210.043mil,1425.192mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0.DDR0_A4 Between Track (685.707mil,588mil)(1158.219mil,588mil) on Routing 1 And Pad U10-H2(2184.452mil,1425.192mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CLK0P Between Track (2111mil,1049mil)(2121mil,1059mil) on Top Layer And Pad U10-H4(2133.271mil,1425.192mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CLK1P Between Track (755mil,352mil)(1120.607mil,352mil) on Routing 1 And Pad U10-H5(2107.68mil,1425.192mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CLK0N Between Pad U10-J4(2133.271mil,1450.782mil) on Top Layer And Track (2231mil,760mil)(2231mil,1083mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CLK1N Between Track (920.245mil,424.079mil)(1057.418mil,424.079mil) on Routing 1 And Pad U10-J5(2107.68mil,1450.782mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_D29 Between Track (920.558mil,390.336mil)(1146.538mil,390.336mil) on Bottom Layer And Pad U10-L1(2210.043mil,1501.964mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_D31 Between Via (933.724mil,406.11mil) from Top Layer to Bottom Layer And Pad U10-L2(2184.452mil,1501.964mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_RST Between Track (828.434mil,568mil)(1166.503mil,568mil) on Routing 1 And Pad U10-L7(2056.501mil,1501.964mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_D27 Between Track (833mil,558mil)(1200mil,558mil) on Routing 1 And Pad U10-M1(2210.043mil,1527.554mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_D30 Between Track (923.704mil,390.414mil)(1151.414mil,390.414mil) on Top Layer And Pad U10-M2(2184.452mil,1527.554mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CS2N Between Track (874mil,296.5mil)(1134mil,296.5mil) on Routing 4 And Pad U10-M5(2107.68mil,1527.554mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_CS0N Between Track (648mil,328mil)(1135mil,328mil) on Routing 4 And Pad U10-M6(2082.09mil,1527.554mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_DDR0_CLK Between Track (2048.113mil,1475mil)(2060.113mil,1463mil) on Bottom Layer And Pad U10-M7(2056.501mil,1527.554mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_D26 Between Track (917.601mil,532mil)(1234mil,532mil) on Routing 1 And Pad U10-N1(2210.043mil,1553.144mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_D28 Between Via (831.362mil,405.859mil) from Top Layer to Bottom Layer And Pad U10-N2(2184.452mil,1553.144mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_DDR Between Pad U18-K10(652.228mil,980.236mil) on Top Layer And Pad U18-K12(652.228mil,1043.228mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U18-V12(856.953mil,1043.228mil) on Top Layer And Via (882.543mil,1011.732mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U18-Y8(908.134mil,917.244mil) on Top Layer And Via (959.315mil,917.244mil) from Top Layer to Bottom Layer 
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1173.268 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1345.716 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 18.567 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 19.132 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 205.521 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 2633.024 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 2963.169 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 415.059 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 805.197 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 871.253 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 142.349 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 175.748 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 262.472 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 379.821 sq. mils
+   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 393.189 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 0.283 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 23187.98 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 674.389 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 760.546 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 867.185 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 928.726 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Dead copper detected. Copper area is : 150.749 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Dead copper detected. Copper area is : 189.475 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Dead copper detected. Copper area is : 223.832 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Dead copper detected. Copper area is : 400.8 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 10349.196 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 10972.982 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 14156.716 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 14720.726 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 18.464 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 1806.08 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 1993.533 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 24313.229 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 281.803 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 463.67 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 569.92 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 585.398 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 739.405 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 747.038 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 8.845 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 8723.373 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 88.736 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 888.755 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 9027.66 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 907.696 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 1053.132 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 1403.851 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 248.724 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 496.8 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 848.673 sq. mils
+   Violation between Isolated copper: Split Plane  (VCCA_0V9) on Power Plane. Dead copper detected. Copper area is : 586.705 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 34674.537 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Dead copper detected. Copper area is : 142.349 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Dead copper detected. Copper area is : 356.001 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Dead copper detected. Copper area is : 389.036 sq. mils
+   Violation between Isolated copper: Split Plane  (VDD_LOG) on Power Plane. Dead copper detected. Copper area is : 208.138 sq. mils
+   Violation between Un-Routed Net Constraint: Net DDR1_DM2 Between Track (923.898mil,744mil)(1205mil,744mil) on Top Layer And Track (1268mil,913mil)(1703mil,1348mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_DQS2P Between Track (910mil,685mil)(1237.999mil,685mil) on Routing 4 And Track (1284.728mil,908.988mil)(1689.225mil,1313.484mil) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_D11 Between Via (550mil,1026mil) from Top Layer to Bottom Layer And Track (1889.91mil,1029.433mil)(1889.91mil,1258.602mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_D9 Between Via (460.298mil,998.936mil) from Top Layer to Bottom Layer And Track (1915.501mil,1018.833mil)(1915.501mil,1258.602mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_D8 Between Via (460.3mil,1024.528mil) from Top Layer to Bottom Layer And Track (1941.092mil,1008.232mil)(1941.092mil,1258.602mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_D10 Between Via (524.275mil,1011.732mil) from Top Layer to Bottom Layer And Track (1954.139mil,1002.829mil)(1954.139mil,1246.058mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1.DDR1_A0 Between Via (705mil,683mil) from Top Layer to Bottom Layer And Track (1966.682mil,997.633mil)(1966.682mil,1258.602mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1.DDR1_A2 Between Track (644mil,877mil)(1167mil,877mil) on Routing 1 And Track (1992.273mil,987.033mil)(1992.273mil,1258.602mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1.DDR1_A3 Between Track (677.5mil,1136mil)(1508mil,1136mil) on Routing 1 And Track (2005.321mil,981.628mil)(2005.321mil,1246.058mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1.DDR1_A4 Between Via (767.385mil,998.936mil) from Top Layer to Bottom Layer And Track (2017.862mil,976.433mil)(2017.862mil,1258.602mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_1V8 Between Via (1672.64mil,1450.783mil) from Top Layer to Bottom Layer And Track (2030.909mil,1783.553mil)(2042.508mil,1795.153mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1.DDR1_A5 Between Track (707mil,1125mil)(1510.229mil,1125mil) on Routing 1 And Track (2030.91mil,971.029mil)(2030.91mil,1246.058mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VDD_LOG Between Track (2502.822mil,3.822mil)(2559.823mil,3.822mil) on Bottom Layer And Via (2559.823mil,37.822mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_DM1 Between Track (554.689mil,1166.689mil)(1508mil,1166.689mil) on Routing 1 And Via (1890.288mil,1335.624mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR1_DQS1P Between Track (584.689mil,1156.689mil)(1508mil,1156.689mil) on Routing 1 And Via (1860.87mil,1313.822mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_DQS3P Between Track (908.063mil,463mil)(1149.198mil,463mil) on Routing 1 And Via (2118mil,1563mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net DDR0_D25 Between Track (952.509mil,520mil)(1233mil,520mil) on Routing 1 And Via (2171.784mil,1565mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_DDR Between Via (993.5mil,411.157mil) from Top Layer to Bottom Layer And Via (1023mil,272mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC3V3_S3 Between Via (709.822mil,1429.995mil) from Top Layer to Bottom Layer And Via (1709mil,1794.843mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC_DDRC Between Via (818.328mil,204.222mil) from Top Layer to Bottom Layer And Via (882.795mil,154.016mil) from Top Layer to Bottom Layer 
+Rule Violations :119
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -49,7 +170,74 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
+   Violation between Net Antennae: Track (1243mil,253mil)(1243mil,287mil) on Routing 4 
+   Violation between Net Antennae: Track (1268mil,913mil)(1703mil,1348mil) on Bottom Layer 
+   Violation between Net Antennae: Track (1284.728mil,908.988mil)(1689.225mil,1313.484mil) on Bottom Layer 
+   Violation between Net Antennae: Track (1323mil,181.556mil)(1323mil,332mil) on Routing 4 
+   Violation between Net Antennae: Track (1334mil,177mil)(1334mil,360mil) on Routing 4 
+   Violation between Net Antennae: Track (1401.171mil,293mil)(1464mil,355.829mil) on Routing 1 
+   Violation between Net Antennae: Track (1889.91mil,1029.433mil)(1889.91mil,1258.602mil) on Top Layer 
+   Violation between Net Antennae: Track (1902.957mil,1024.029mil)(1902.957mil,1246.058mil) on Top Layer 
+   Violation between Net Antennae: Track (1915.501mil,1018.833mil)(1915.501mil,1258.602mil) on Top Layer 
+   Violation between Net Antennae: Track (1928.546mil,1013.429mil)(1928.546mil,1246.058mil) on Top Layer 
+   Violation between Net Antennae: Track (1941.092mil,1008.232mil)(1941.092mil,1258.602mil) on Top Layer 
+   Violation between Net Antennae: Track (1954.139mil,1002.829mil)(1954.139mil,1246.058mil) on Top Layer 
+   Violation between Net Antennae: Track (1966.682mil,997.633mil)(1966.682mil,1258.602mil) on Top Layer 
+   Violation between Net Antennae: Track (1992.273mil,987.033mil)(1992.273mil,1258.602mil) on Top Layer 
+   Violation between Net Antennae: Track (2005.321mil,981.628mil)(2005.321mil,1246.058mil) on Top Layer 
+   Violation between Net Antennae: Track (2017.862mil,976.433mil)(2017.862mil,1258.602mil) on Top Layer 
+   Violation between Net Antennae: Track (2030.91mil,971.029mil)(2030.91mil,1246.058mil) on Top Layer 
+   Violation between Net Antennae: Track (2111mil,1049mil)(2121mil,1059mil) on Top Layer 
+   Violation between Net Antennae: Track (2212mil,796mil)(2212mil,1076mil) on Bottom Layer 
+   Violation between Net Antennae: Track (2231mil,760mil)(2231mil,1083mil) on Bottom Layer 
+   Violation between Net Antennae: Track (2238.425mil,1090.425mil)(2252mil,1076.849mil) on Bottom Layer 
+   Violation between Net Antennae: Track (2502.822mil,3.822mil)(2559.823mil,3.822mil) on Bottom Layer 
+   Violation between Net Antennae: Track (394mil,248.5mil)(421.909mil,248.5mil) on Bottom Layer 
+   Violation between Net Antennae: Track (518.366mil,1176.689mil)(1508mil,1176.689mil) on Routing 1 
+   Violation between Net Antennae: Track (554.689mil,1166.689mil)(1508mil,1166.689mil) on Routing 1 
+   Violation between Net Antennae: Track (567.955mil,146.016mil)(575.457mil,153.517mil) on Bottom Layer 
+   Violation between Net Antennae: Track (584.689mil,1156.689mil)(1508mil,1156.689mil) on Routing 1 
+   Violation between Net Antennae: Track (610.689mil,1146.689mil)(1508mil,1146.689mil) on Routing 1 
+   Violation between Net Antennae: Track (643mil,655mil)(1213.589mil,655mil) on Routing 4 
+   Violation between Net Antennae: Track (644mil,877mil)(1167mil,877mil) on Routing 1 
+   Violation between Net Antennae: Track (648mil,328mil)(1135mil,328mil) on Routing 4 
+   Violation between Net Antennae: Track (652.367mil,980.5mil)(677mil,980.5mil) on Bottom Layer 
+   Violation between Net Antennae: Track (670mil,318mil)(1135mil,318mil) on Routing 4 
+   Violation between Net Antennae: Track (677.5mil,1136mil)(1508mil,1136mil) on Routing 1 
+   Violation between Net Antennae: Track (685.707mil,588mil)(1158.219mil,588mil) on Routing 1 
+   Violation between Net Antennae: Track (689.849mil,578mil)(1162.361mil,578mil) on Routing 1 
+   Violation between Net Antennae: Track (707mil,1125mil)(1510.229mil,1125mil) on Routing 1 
+   Violation between Net Antennae: Track (726.434mil,856mil)(1122mil,856mil) on Top Layer 
+   Violation between Net Antennae: Track (753.243mil,847mil)(1171.063mil,847mil) on Routing 4 
+   Violation between Net Antennae: Track (755mil,352mil)(1120.607mil,352mil) on Routing 1 
+   Violation between Net Antennae: Track (761.137mil,794.5mil)(1123.5mil,794.5mil) on Bottom Layer 
+   Violation between Net Antennae: Track (781.988mil,792mil)(1072mil,792mil) on Routing 4 
+   Violation between Net Antennae: Track (786.266mil,470.158mil)(1090.485mil,470.158mil) on Routing 4 
+   Violation between Net Antennae: Track (787mil,888mil)(1198mil,888mil) on Routing 1 
+   Violation between Net Antennae: Track (805.335mil,866.5mil)(1293.5mil,866.5mil) on Top Layer 
+   Violation between Net Antennae: Track (807mil,665mil)(1224.999mil,665mil) on Routing 4 
+   Violation between Net Antennae: Track (828.434mil,568mil)(1166.503mil,568mil) on Routing 1 
+   Violation between Net Antennae: Track (833mil,558mil)(1200mil,558mil) on Routing 1 
+   Violation between Net Antennae: Track (874mil,296.5mil)(1134mil,296.5mil) on Routing 4 
+   Violation between Net Antennae: Track (908.063mil,463mil)(1149.198mil,463mil) on Routing 1 
+   Violation between Net Antennae: Track (910mil,685mil)(1237.999mil,685mil) on Routing 4 
+   Violation between Net Antennae: Track (917.459mil,461.579mil)(1193.161mil,461.579mil) on Bottom Layer 
+   Violation between Net Antennae: Track (917.579mil,424.579mil)(1137mil,424.579mil) on Routing 4 
+   Violation between Net Antennae: Track (917.601mil,532mil)(1234mil,532mil) on Routing 1 
+   Violation between Net Antennae: Track (920.245mil,424.079mil)(1057.418mil,424.079mil) on Routing 1 
+   Violation between Net Antennae: Track (920.558mil,390.336mil)(1146.538mil,390.336mil) on Bottom Layer 
+   Violation between Net Antennae: Track (923.704mil,390.414mil)(1151.414mil,390.414mil) on Top Layer 
+   Violation between Net Antennae: Track (923.898mil,744mil)(1205mil,744mil) on Top Layer 
+   Violation between Net Antennae: Track (952.509mil,520mil)(1233mil,520mil) on Routing 1 
+   Violation between Net Antennae: Track (973.09mil,391mil)(1136.946mil,391mil) on Routing 4 
+   Violation between Net Antennae: Via (460.298mil,998.936mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (460.3mil,1024.528mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (524.275mil,1011.732mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (524.275mil,980.236mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (550mil,1026mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (705mil,683mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (818.637mil,452.363mil) from Top Layer to Bottom Layer 
+Rule Violations :67
 
 Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('HDMI_TX1'))
 Rule Violations :0
@@ -82,12 +270,13 @@ Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('HDMI_TXC'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=300mil) (InNetClass('TYPEC0_AUX'))
-Rule Violations :0
+   Violation between Matched Net Lengths: Between Net TYPEC0_AUX_N And Net TYPEC0_AUX_P Actual Difference against TYPEC0_AUX_P is: 300.952mil, Tolerance : 300mil. 
+Rule Violations :1
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 189
 Waived Violations : 0
-Time Elapsed        : 00:00:06
+Time Elapsed        : 00:00:07
