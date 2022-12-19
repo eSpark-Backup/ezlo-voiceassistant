@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=z NewDesignator=R45
+Added Member To Class: ClassName=U_DDRC_Section Member=Component C131 0.1uF
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component C222 100nF
+Added Member To Class: ClassName=U_GND_Sheet Member=Component U10 RK3399
+Added Member To Class: ClassName=U_RAM_Sheet Member=Component U18 K4F6E3S4HM-MGCJ
