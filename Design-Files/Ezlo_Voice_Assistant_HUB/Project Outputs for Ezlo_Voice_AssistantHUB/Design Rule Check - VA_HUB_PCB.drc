@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\LiberDB\Documents\GitHub\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
-Date     : 12/19/2022
-Time     : 8:38:38 PM
+PCB File : E:\Ezlo-VoiceAssistant\Design-Files\Ezlo_Voice_Assistant_HUB\VA_HUB_PCB.PcbDoc
+Date     : 2/16/2023
+Time     : 6:24:57 PM
 
 Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('BGA_3')),(All)
 Rule Violations :0
@@ -22,39 +22,20 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Copper island connected to pads/vias detected. Copper area is : 1257.766 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 545.97 sq. mils
-   Violation between Isolated copper: Split Plane  (GND) on GND Plane. Dead copper detected. Copper area is : 665.382 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_3V0) on Power Plane. Dead copper detected. Copper area is : 1567.843 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 0.283 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 123.121 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 218.715 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 518.245 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Dead copper detected. Copper area is : 133.01 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDR) on Power Plane. Dead copper detected. Copper area is : 294.809 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 1.491 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 1529.905 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 15744.728 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 1731.309 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 21194.119 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 22930.136 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 254.817 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 391.684 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 19529.224 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 23029.884 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 28179.33 sq. mils
    Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 518.564 sq. mils
    Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 747.038 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 796.764 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 871.962 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 8714.409 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 8756.842 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 9847.784 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 9552.521 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 9834.292 sq. mils
    Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 141.753 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 176.332 sq. mils
    Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 2479.442 sq. mils
    Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 320.804 sq. mils
-   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 328.298 sq. mils
+   Violation between Isolated copper: Split Plane  (VCC_DDRC) on Power Plane. Dead copper detected. Copper area is : 617.473 sq. mils
    Violation between Isolated copper: Split Plane  (VDD_CPU_B) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 31718.541 sq. mils
    Violation between Isolated copper: Split Plane  (VDD_GPU) on Power Plane. Copper island connected to pads/vias detected. Copper area is : 41750.749 sq. mils
-Rule Violations :32
+Rule Violations :13
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -121,6 +102,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 33
+Violations Detected : 14
 Waived Violations : 0
-Time Elapsed        : 00:00:08
+Time Elapsed        : 00:00:06
